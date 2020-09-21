@@ -10,7 +10,7 @@
       <p><b>地址：山东省聊城市东昌府区湖南路1号聊城大学</b></p>
     </td>
     <td width="25%">
-      <img src="/img01.jpg" width="100%">     
+      <img src="/img01.png" width="100%">     
     </td>
   </tr>
 </table>
