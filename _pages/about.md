@@ -19,7 +19,7 @@ redirect_from:
 
 秦浩翔，男，1997年生于山东聊城，分别于2020年及2023年获得了聊城大学软件工程专业的学士学位与硕士学位，目前正在华南理工大学软件学院攻读博士学位。我的博士导师是向毅，硕士导师是韩玉艳。
 
-本人目前的研究兴趣包括智能制造、智能车间与智能计算、智能电网、多目标优化算法、进化算法和强化学习。
+本人目前的研究兴趣包括智能制造、智能车间与智能计算、智能电网、迭代贪婪算法、多目标优化算法、进化算法和强化学习。
 
 My research interest includes neural machine translation and computer vision. I have published more than 10 papers in the research area of "intelligent optimization algorithms and their applications" <a href='https://scholar.google.com/citations?user=TaClukkAAAAJ'>google scholar </a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=TaClukkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
