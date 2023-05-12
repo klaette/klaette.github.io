@@ -33,7 +33,7 @@ redirect_from:
 # 📝 发表论文 
    <h3>---2021---</h3> 
 
-1. <span style="color:#b6321c">Intelligent Optimization Under Blocking Constraints: A Novel Iterated Greedy Algorithm for the Hybrid Flow-Shop Group Scheduling Problems</span>, <span style="color:black">
+[J1]. <span style="color:#b6321c">Intelligent Optimization Under Blocking Constraints: A Novel Iterated Greedy Algorithm for the Hybrid Flow-Shop Group Scheduling Problems</span>, <span style="color:black">
 
 **Haoxiang Qin**</span>, Yuyan Han✉️, Yuting Wang✉️, Yiping Liu, Junqing Li, and Quanke Pan. 
 
