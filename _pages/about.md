@@ -32,11 +32,9 @@ redirect_from:
 
 # 📝 发表论文 
    <h3>---2021---</h3> 
-					<ol>    <!-- 2021 -->
-						<li>
-						<b>R. Li</b>, W. Gong*, <font color=#0000ff>An improved multi-objective optimization based on decomposition for bi-objective fuzzy flexible job shop problem</font>, <em>Control Theory & Application</em>. 2022, 39(01): 31-40(EI). [<A href="[Code/IMOEAD_FFJSP.rar](https://scholar.google.com/citations?user=TaClukkAAAAJ)">code Matlab</A>] [<A href="[Publication/IMOEAD-CTAA.pdf](https://scholar.google.com/citations?user=TaClukkAAAAJ)">paper</A>]
-						</li>    						
-					</ol>   
+   <ol>    <!-- 2021 -->
+<li><b>R. Li</b>, W. Gong*, <font color=#0000ff>An improved multi-objective optimization based on decomposition for bi-objective fuzzy flexible job shop problem</font>, <em>Control Theory & Application</em>. 2022, 39(01): 31-40(EI). [<A href="[Code/IMOEAD_FFJSP.rar](https://scholar.google.com/citations?user=TaClukkAAAAJ)">code Matlab</A>] [<A href="[Publication/IMOEAD-CTAA.pdf](https://scholar.google.com/citations?user=TaClukkAAAAJ)">paper</A>]</li>    						
+</ol>   
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💬 学术会议
