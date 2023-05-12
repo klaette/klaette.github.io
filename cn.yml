@@ -119,7 +119,7 @@ kramdown:
 
 # Defaults
 defaults:
-  # _pages
+  # _pages_cn
   - scope:
       path: ""
       type: pages
