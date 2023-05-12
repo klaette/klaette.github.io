@@ -38,7 +38,7 @@ redirect_from:
    [DOI: 10.1016/j.knosys.2022.109962] [PDF]
    影响因子: 8.139, 中科院SCI一区
    
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Intelligent Optimization Under Blocking Constraints: A Novel Iterated Greedy Algorithm for the Hybrid Flow-Shop Group Scheduling Problems](https://www.sciencedirect.com/science/article/pii/S0950705122010553), Haoxiang Qin, Yuyan Han*, Yuting Wang*, Yiping Liu, Junqing Li, and Quanke Pan. *knowledge-based systems* vol.258, no. 109962, pp.1-24, 2022, [DOI: 10.1016/j.knosys.2022.109962]. **影响因子: 8.139, 中科院SCI一区**.
 
 # 💬 学术会议
 - 
