@@ -63,6 +63,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _pages_cn
   - files
 exclude:
   - docs
