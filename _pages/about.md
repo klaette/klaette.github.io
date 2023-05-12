@@ -21,7 +21,7 @@ redirect_from:
 
 本人目前的研究兴趣包括智能制造、智能车间与智能计算、智能电网、多目标优化算法、进化算法和强化学习。
 
-My research interest includes neural machine translation and computer vision. I have published more than 10 papers in the research area of "intelligent optimization algorithms and their applications" <a href='https://scholar.google.com/citations?user=TaClukkAAAAJ&hl=zh-CN'>google scholar </a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=TaClukkAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. I have published more than 10 papers in the research area of "intelligent optimization algorithms and their applications" <a href='https://scholar.google.com/citations?user=TaClukkAAAAJ'>google scholar </a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=TaClukkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
