@@ -21,7 +21,7 @@ redirect_from:
 
  本人目前的研究兴趣包括智能制造、智能车间与智能计算、智能电网、迭代贪婪算法、多目标优化算法、进化算法和强化学习。 已在《IEEE Transactions on Emerging Topics in Computational Intelligence》、《Swarm and Evolutionary Computation》、《Expert Systems with Applications》、《knowledge-based systems》等多个国际著名期刊发表学术论文9篇，详情可查看我的<a href='https://scholar.google.com/citations?user=TaClukkAAAAJ'>谷歌学术</a>，或通过引用量徽章查看（<a href='https://scholar.google.com/citations?user=TaClukkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)）。
 
-# 🔥 News
+# ✨ News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -30,7 +30,7 @@ redirect_from:
 - 2020年6月 ~ 2023年9月, 聊城大学计算机学院，智能优化算法及其应用，工学硕士 
 - 2016年6月 ~ 2020年9月, 聊城大学计算机学院，软件工程，工学学士
 
-# 📝 Publications 
+# 📝 发表论文 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,30 +46,33 @@ redirect_from:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 💬 Academic Conferences
+# 💬 学术会议
 - 
 -  
 - 
 
-# 🎖 Honors and Awards
+# 🎖️ 获奖情况
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 
 
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
-# 📚  
+# 📚 项目经历 
 - 
 -  
 -
 
-# 🧑‍🎨
+# 👀 研究兴趣
 - 
 -  
 - 
 
-# 📎
+# 📎 学术活动
+- 
+
+
+# 👥 合作成员
 - 
 -  
-- 
+
+# 💻 工作实习
+- 暂无
