@@ -22,4 +22,4 @@ main:
     url: "/#-internships"
     
   - title: "Chinese Page"
-    url: "https://cuglirui.github.io/pubs.htm"
+    url: "/cn.yml"
