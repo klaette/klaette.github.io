@@ -52,9 +52,6 @@
       {% if author.dblp %}
         <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i> DBLP</a></li>
       {% endif %}
-      {% if author.xing %}
-        <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
-      {% endif %}
       {% if author.instagram %}
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
       {% endif %}
@@ -118,6 +115,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+      {% if author.xing %}
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vWscOU9alUetsxItYjXDsRfloiOqiNRuMSp1tviUqtY&cl=ffffff&w=a"></script>
+      {% endif %}
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
@@ -146,9 +146,6 @@
       {% endif %}
       {% if author.dblp %}
         <a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if author.xing %}
-        <a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.instagram %}
         <a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i></a>
@@ -212,6 +209,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.xing %}
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vWscOU9alUetsxItYjXDsRfloiOqiNRuMSp1tviUqtY&cl=ffffff&w=a"></script>
       {% endif %}
     </div>
   </div>
