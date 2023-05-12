@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+ref: publications
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,17 +33,43 @@ redirect_from:
 
 # 📝 发表论文 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+jpubs:
+    - title:   "Intelligent Optimization Under Blocking Constraints: A Novel Iterated Greedy Algorithm for the Hybrid Flow-Shop Group Scheduling Problems"
+      authors:
+        - name: "Haoxiang Qin"  
+        - name: "Yuyan Han*"  
+        - name: "Yuting Wang*"
+        - name: "Yiping Liu"
+        - name: "Junqing Li"
+        - name: "Quanke Pan"
+      cauthor: 1
+      journal: "knowledge-based systems"
+      year:    "2022"
+      volume:  "258"
+      number:  "109962"
+      page:    "1-24"
+      doi:     "10.1016/j.knosys.2022.109962"
+      impact:  "影响因子: 8.139, 中科院SCI一区"
+      pdf:     "/pdf/DBHFSP_KBS.pdf"    
+    
+    - title:   "A collaborative iterative greedy algorithm for the scheduling of distributed heterogeneous hybrid flow shop with blocking constraints"
+      authors:
+        - name: "Haoxiang Qin"  
+        - name: "Yuyan Han*"  
+        - name: "Yiping Liu"
+        - name: "Junqing Li"
+        - name: "Quanke Pan"
+        - name: "Xue Han"
+      cauthor: 1
+      journal: "Expert Systems with Applications"
+      year:    "2022"
+      volume:  "201"
+      number:  "117256"
+      page:    "1-15"
+      doi:     "10.1016/j.eswa.2022.117256"
+      impact:  "影响因子: 8.665, 中科院SCI一区"
+      pdf:     "/pdf/DBHFSP_ESWA.pdf"
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
