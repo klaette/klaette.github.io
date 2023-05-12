@@ -33,9 +33,8 @@ redirect_from:
 # 📝 发表论文 
    <h3>---2021---</h3> 
 
-1. <span style="color:#b6321c">Intelligent Optimization Under Blocking Constraints: A Novel Iterated Greedy Algorithm for the Hybrid Flow-Shop Group Scheduling Problems</span>, \\ <span style="color:black">**Haoxiang Qin**</span>, Yuyan Han✉️, Yuting Wang✉️, Yiping Liu, Junqing Li, and Quanke Pan. *knowledge-based systems*. vol.258, no. 109962, pp.1-24, 2022. [DOI: 10.1016/j.knosys.2022.109962](https://www.sciencedirect.com/science/article/pii/S0950705122010553). 
-
-**影响因子: 8.139, 中科院SCI一区**.
+1.<span style="color:#b6321c">Intelligent Optimization Under Blocking Constraints: A Novel Iterated Greedy Algorithm for the Hybrid Flow-Shop Group Scheduling Problems</span>, \\ 
+<span style="color:black">**Haoxiang Qin**</span>, Yuyan Han✉️, Yuting Wang✉️, Yiping Liu, Junqing Li, and Quanke Pan. *knowledge-based systems*. vol.258, no. 109962, pp.1-24, 2022. [DOI: 10.1016/j.knosys.2022.109962](https://www.sciencedirect.com/science/article/pii/S0950705122010553). **影响因子: 8.139, 中科院SCI一区**.
  
 # 💬 学术会议
 - 
