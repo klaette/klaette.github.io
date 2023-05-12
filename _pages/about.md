@@ -2,7 +2,6 @@
 permalink: /
 title: ""
 excerpt: ""
-ref: publications
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,45 +31,10 @@ redirect_from:
 - 2016年6月 ~ 2020年9月, 聊城大学计算机学院，软件工程，工学学士
 
 # 📝 发表论文 
-
-
-jpubs:
-    - title:   "Intelligent Optimization Under Blocking Constraints: A Novel Iterated Greedy Algorithm for the Hybrid Flow-Shop Group Scheduling Problems"
-      authors:
-        - name: "Haoxiang Qin"  
-        - name: "Yuyan Han*"  
-        - name: "Yuting Wang*"
-        - name: "Yiping Liu"
-        - name: "Junqing Li"
-        - name: "Quanke Pan"
-      cauthor: 1
-      journal: "knowledge-based systems"
-      year:    "2022"
-      volume:  "258"
-      number:  "109962"
-      page:    "1-24"
-      doi:     "10.1016/j.knosys.2022.109962"
-      impact:  "影响因子: 8.139, 中科院SCI一区"
-      pdf:     "/pdf/DBHFSP_KBS.pdf"    
+- [J1]  Intelligent Optimization Under Blocking Constraints: A Novel Iterated Greedy Algorithm for the Hybrid Flow-Shop Group Scheduling Problems. Haoxiang Qin, Yuyan Han*, Yuting Wang*,
+-       Yiping Liu, Junqing Li, and Quanke Pan. knowledge-based systems, 2022, 258, 109962. 
     
-    - title:   "A collaborative iterative greedy algorithm for the scheduling of distributed heterogeneous hybrid flow shop with blocking constraints"
-      authors:
-        - name: "Haoxiang Qin"  
-        - name: "Yuyan Han*"  
-        - name: "Yiping Liu"
-        - name: "Junqing Li"
-        - name: "Quanke Pan"
-        - name: "Xue Han"
-      cauthor: 1
-      journal: "Expert Systems with Applications"
-      year:    "2022"
-      volume:  "201"
-      number:  "117256"
-      page:    "1-15"
-      doi:     "10.1016/j.eswa.2022.117256"
-      impact:  "影响因子: 8.665, 中科院SCI一区"
-      pdf:     "/pdf/DBHFSP_ESWA.pdf"
-
+    
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💬 学术会议
