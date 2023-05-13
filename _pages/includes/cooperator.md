@@ -18,6 +18,5 @@
 - <div><img src='images/KZG.jpg' alt="KZG" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339844.htm"> 高开周</a>  (聊城大学教授, 硕士生导师)  </div>
 - <div><img src='images/ZB.png' alt="ZB" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339836.htm"> 张彪</a>  (聊城大学副教授, 硕士生导师)  </div>
 - <div><img src='images/MLL.png' alt="MLL" width="3%"><A href="https://cs.lcu.edu.cn/szdw/431879.htm"> 孟磊磊</a>  (聊城大学讲师, 硕士生导师)  </div>
-- 
 
 
