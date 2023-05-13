@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "秦浩翔"
   avatar           : "images/qhxpho.png"
-  bio              : "华南理工大学"
+  bio              : # "华南理工大学"
   location         : "广州, 中国"
   employer         :
   pubmed           : 
