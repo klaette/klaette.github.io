@@ -8,7 +8,7 @@
 - 强化学习
 - 路径规划
 - 以下的动图可以形象的描述我的工作：
-<div><img src='images/M1.gif' alt="M1" width="10%">&nbsp;&nbsp; <img src='images/M2.gif' alt="M2" width="10%">&nbsp; &nbsp; <img src='images/M3.gif' alt="M3" width="10%">&nbsp; &nbsp; <img src='images/M4.gif' alt="M4" width="10%"> </div>
+<div><img src='images/M1.gif' alt="M1" width="20%">&nbsp;&nbsp; <img src='images/M2.gif' alt="M2" width="20%">&nbsp; &nbsp; <img src='images/M3.gif' alt="M3" width="20%">&nbsp; &nbsp; <img src='images/M4.gif' alt="M4" width="20%"> </div>
 
 ## 🗺️ 日常兴趣
 - 爱旅游
