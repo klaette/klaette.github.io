@@ -11,8 +11,10 @@
 <h3>---2021---</h3> 
 
 1. <span style="color:#b6321c">An improved iterated greedy algorithm for the energy-efficient blocking hybrid flow shop scheduling problem</span>. <span style="color:black">**Haoxiang Qin**</span>, Yuyan Han✉️, Biao Zhang, Leilei Meng, Yiping Liu, Quanke Pan, Dunwei Gong. ***Swarm and Evolutionary Computation***, vol.69, no. 100992, pp.1-18, 2021. [\[10.1016/j.swevo.2021.100992\]](https://www.sciencedirect.com/science/article/abs/pii/S2210650221001541) [\[PDF\]](/pdf/BHFSP_SWEVO.pdf) **影响因子: 10.267, 中科院SCI一区**.
-2. <span style="color:#b6321c">求解阻塞混合流水车间调度的双层变异迭代贪婪算法</span>. <span style="color:black">**秦浩翔**</span>, 韩玉艳✉️， 陈庆达， 李俊青， 桑红燕. ***控制与决策***. vol.37, no. 9, pp.2323-2332, 2021. [\[10.13195/j.kzyjc.2021.0607\]](https://kns.cnki.net/kcms2/article/abstract?v=pbvOL2cnFbIphAMVPFs9TwXrLQnIRXiVSTC5Nf7PsYIP51Sms43Ofyi4uGCjYngsqmVi19Jb98swIXlbf58A0JcGn48k0Xf2rcITBBWmSk-b5AbixEoY9Qydn0EHnv38qhA7C7ZfGELsu21tRVeY4A==&uniplatform=NZKPT&language=CHS). [\[PDF\]](/pdf/BHFSP_CAD.pdf) **EI, 北大核心, 中文权威期刊**.
+2. <span style="color:#b6321c">求解阻塞混合流水车间调度的双层变异迭代贪婪算法</span>. <span style="color:black">**秦浩翔**</span>, 韩玉艳✉️， 陈庆达， 李俊青， 桑红燕. ***控制与决策***. vol.37, no. 9, pp.2323-2332, 2021. [\[10.13195/j.kzyjc.2021.0607\]](https://kns.cnki.net/kcms2/article/abstract?v=pbvOL2cnFbIphAMVPFs9TwXrLQnIRXiVSTC5Nf7PsYIP51Sms43Ofyi4uGCjYngsqmVi19Jb98swIXlbf58A0JcGn48k0Xf2rcITBBWmSk-b5AbixEoY9Qydn0EHnv38qhA7C7ZfGELsu21tRVeY4A==&uniplatform=NZKPT&language=CHS) [\[PDF\]](/pdf/BHFSP_CAD.pdf) **EI, 北大核心, 中文权威期刊**.
+
 ## 💬 会议论文
-- 
--  
-- 
+- 1. <span style="color:#b6321c">Adapting a reinforcement learning method for the distributed blocking hybrid flow shop scheduling problem</span>. <span style="color:black">**Haoxiang Qin**</span>, Yuting Wang✉️, Yuyan Han✉️, Qingda Chen, Junqing Li.***The 5th Asian Conference on Artificial Intelligence Technology (ACAIT)***. IEEE, 2022.
+- 2. <span style="color:#b6321c">A quick and effective iterated greedy algorithm for energy-efficient hybrid flow shop scheduling problem with blocking constraint</span>. <span style="color:black">**Haoxiang Qin**</span>, Yuyan Han✉️, Junqing Li, Hongyan Sang, Qingda Chen. ***2021 11th International Conference on Information Science and Technology (ICIST)***. IEEE, 2021.
+- 3. <span style="color:#b6321c">An improved iterated greedy algorithm for the distributed flow shop scheduling problem with sequence-dependent setup times</span>. Xue Han, Yuyan Han*, Yiping Liu, Quanke Pan, <span style="color:black">**Haoxiang Qin**</span>, Junqing Li. ***2021 11th International Conference on Information Science and Technology (ICIST)***. IEEE, 2021.
+
