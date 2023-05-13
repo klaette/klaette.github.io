@@ -6,4 +6,4 @@
 
 已在《IEEE Transactions on Emerging Topics in Computational Intelligence》、《Swarm and Evolutionary Computation》、《Expert Systems with Applications》、《knowledge-based systems》等多个国际著名期刊发表学术论文9篇，详情可查看我的<a href='https://scholar.google.com/citations?user=TaClukkAAAAJ'>谷歌学术主页</a>. 
 
-可以通过以下邮箱联系到我：987352978@qq.com(推荐), &nbsp;  klaetteqin@gmail.com
+可以通过邮箱联系到我：987352978@qq.com(推荐), &nbsp;  klaetteqin@gmail.com
