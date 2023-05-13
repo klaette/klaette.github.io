@@ -15,7 +15,9 @@
 - <div><img src='images/QDC.png' alt="QDC" width="3%"> 陈庆达 (东北大学,流程工业综合自动化国家重点实验室讲师)</div>
 - <div><img src='images/JQL.png' alt="JQL" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339885.htm"> 李俊青</a>  (山东师范大学教授, 博士生导师)  </div>
 - <div><img src='images/SHY.png' alt="SHY" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339857.htm"> 桑红燕</a>  (聊城大学教授, 硕士生导师，兼职博士生导师)  </div>
-- <div><img src='images/GKZ.png' alt="GKZ" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339844.htm"> 高开周</a>  (聊城大学教授, 硕士生导师)  </div>
+- <div><img src='images/KZG.jpg' alt="KZG" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339844.htm"> 高开周</a>  (聊城大学教授, 硕士生导师)  </div>
+- <div><img src='images/ZB.png' alt="ZB" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339836.htm"> 张彪</a>  (聊城大学副教授, 硕士生导师)  </div>
+- <div><img src='images/MLL.png' alt="MLL" width="3%"><A href="https://cs.lcu.edu.cn/szdw/431879.htm"> 孟磊磊</a>  (聊城大学讲师, 硕士生导师)  </div>
 - 
 
 
