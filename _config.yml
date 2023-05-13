@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "秦浩翔"
-description              : # "华南理工大学博士在读。"
+description              : "华南理工大学"
 repository               : "HaoxiangQin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "秦浩翔"
   avatar           : "images/qhxpho.png"
-  bio              : "华南理工大学"
+  bio              : "博士在读"
   location         : "广州, 中国"
   employer         :
   pubmed           : 
