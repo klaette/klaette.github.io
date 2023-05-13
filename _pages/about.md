@@ -84,4 +84,4 @@ redirect_from:
 
 {% include_relative includes/cooperator.md %}
 
-{% include_relative includes/internships.md %}
+{% include_relative includes/others.md %}
