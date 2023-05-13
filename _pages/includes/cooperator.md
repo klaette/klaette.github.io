@@ -8,6 +8,8 @@
 <h3>---论文合著成员---</h3>
 
 - <div><img src='images/WL.png' alt="WL" width="3%"><A href="https://www.au.tsinghua.edu.cn/info/1107/1558.htm"> 王凌</a> (清华大学教授， 博士生导师，国家杰出青年基金获得者)</div>
+- <div><img src='images/WL.png' alt="WL" width="3%"><A href="https://automation.shu.edu.cn/info/1066/1886.htm"> 潘全科</a> (上海大学教授， 博士生导师，全球高被引科学家)</div>
 - <div><img src='images/YLiu.png' alt="YLiu" width="3%"><A href="http://csee.hnu.edu.cn/people/liuyiping"> 刘益萍</a> (湖南大学副教授， 博士生导师，岳麓学者)</div>
 - <div><img src='images/QDC.png' alt="WL" width="3%"> 陈庆达 (东北大学,流程工业综合自动化国家重点实验室讲师)</div>
+
 
