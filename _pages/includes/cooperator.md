@@ -16,7 +16,7 @@
 - <div><img src='images/WLB.jpg' alt="WLB" width="3%"><A href="https://scholar.google.com.hk/citations?user=P7sApnQAAAAJ&hl=zh-CN"> 白文磊</a> (美国甲骨文能源与水资源公司，主要应用程序开发人员)</div>
 - <div><img src='images/JQL.png' alt="JQL" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339885.htm"> 李俊青</a>  (山东师范大学教授, 博士生导师)  </div>
 - <div><img src='images/SHY.png' alt="SHY" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339857.htm"> 桑红燕</a>  (聊城大学教授, 硕士生导师，兼职博士生导师)  </div>
-- <div><img src='images/KZG.jpg' alt="KZG" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339844.htm"> 高开周</a>  (聊城大学教授, 硕士生导师)  </div>
+- <div><img src='images/KZG.jpg' alt="GKZ" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339844.htm"> 高开周</a>  (澳门科技大学助理教授，聊城大学讲师,  硕士生导师)  </div>
 - <div><img src='images/ZB.png' alt="ZB" width="3%"><A href="https://cs.lcu.edu.cn/szdw/339836.htm"> 张彪</a>  (聊城大学副教授, 硕士生导师)  </div>
 - <div><img src='images/MLL.png' alt="MLL" width="3%"><A href="https://cs.lcu.edu.cn/szdw/431879.htm"> 孟磊磊</a>  (聊城大学讲师, 硕士生导师)  </div>
 
