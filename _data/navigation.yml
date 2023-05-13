@@ -22,7 +22,7 @@ main:
     url: "/#-internships"
     
   - title: "Project"
-    url: "/#-project"
+    url: "/##-project"
     
   - title: "English Page"
     url: "https://klaette.github.io/"
