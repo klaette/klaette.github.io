@@ -1,6 +1,6 @@
-# 📚 项目经历 
+# 📚 Project Experience 
 
-1. 2022.09-2025.12 光岳青年学者创新团队，LCUGYTD2022-03，骨干成员
-2. 2019.01-2022.12国家自然科学基金面上项目，多线体表面贴装车间的智能优化调度理论与方法（批准号：61973203），项目成员
-3. 2019.01-2022.12国家自然科学基金面上项目，求解连续环境下的多目标约束优化问题的进化算法研究（批准号：61966012），项目成员
-4. 2019.01-2021.12国家自然科学基金青年项目，多模态多目标混合流水调度进化优化算法研究（批准号：61803192）, 项目成员
+1. 2022.09-2025.12 Guangyue Youth Scholar Innovation Talent Program support received from Liaocheng University，LCUGYTD2022-03，Key member
+2. 2019.01-2022.12 National Natural Science Foundation of China，Intelligent and optimal scheduling theory and method for multi-line surface mount shop（Number：61973203），member
+3. 2019.01-2022.12 National Natural Science Foundation of China，An evolutionary algorithm for solving multi-objective constrained optimization problems in continuous environments（Number：61966012），member
+4. 2019.01-2021.12 National Natural Science Foundation of China，Evolutionary optimization algorithm for multi-modal and multi-objective hybrid flow scheduling（Number：61803192）, member
