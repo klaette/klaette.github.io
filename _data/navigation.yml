@@ -2,12 +2,22 @@
 main:
   - title: "英文主页"
     url: "https://klaette.github.io/"
- 
- - title: "实习"
-   url: "/#lab"
+   
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
 
  - title: "合作成员"
    url: "/#tutor"
    
- - title: "英文主页"
-    url: "https://klaette.github.io/"
