@@ -3,21 +3,5 @@ main:
   - title: "英文主页"
     url: "https://klaette.github.io/"
    
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
- - title: "实习"
-   url: "/#lab"
-   
+  - title: "英文主页"
+    url: "https://klaette.github.io/"
