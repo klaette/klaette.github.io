@@ -8,7 +8,7 @@
 - 强化学习
 - 路径规划
 
-或许通过以下的动图可以更形象但却比较粗浅的描述我的工作：
+&nbsp;&nbsp;或许通过以下的动图可以更形象但却比较粗浅的描述我的工作：
 <div>&nbsp;&nbsp;&nbsp;&nbsp;<img src='images/M1.gif' alt="M1" width="15%">&nbsp; <img src='images/arrow.png' alt="A1" width="7%">&nbsp; <img src='images/M2.gif' alt="M2" width="15%">&nbsp; <img src='images/arrow.png' alt="A1" width="7%">&nbsp; <img src='images/M3.gif' alt="M3" width="15%">&nbsp; <img src='images/arrow.png' alt="A1" width="7%">&nbsp; <img src='images/M4.gif' alt="M4" width="15%"> </div>
 
 ## 🗺️ 日常兴趣
