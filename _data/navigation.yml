@@ -1,5 +1,36 @@
 # main links links
 main:
+
+  - title: "About me"
+    url: "/#about me"
+    
+  - title: "News"
+    url: "/#-news"
+    
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Project Experience"
+    url: "/#-Project-Experience"
+  
+  - title: "Hobbies and Interests"
+    url: "/#-Hobbies-and-Interests"
+    
+  - title: "Academic Activities"
+    url: "/#-Academic-Activities"
+    
+  - title: "Cooperating Members"
+    url: "/#-Cooperating-Members"
+    
+  - title: "Internships"
+    url: "/#-internships"
+    
   - title: "Chinese Homepage"
     url: "https://HaoxiangQin.github.io/"
    
