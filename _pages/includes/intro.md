@@ -1,9 +1,9 @@
-秦浩翔，男，1997年生于山东聊城，分别于2020年及2023年获得了聊城大学软件工程专业的学士学位与硕士学位，目前正在华南理工大学软件学院攻读博士学位。
+I was born in Liaocheng, Shandong province, China in 1997. I received B.Eng. and M. Eng degrees in Software Engineering of Liaocheng University, China in 2020 and 2023, respectively. Now, I am pursuing my ph. D. degree in School of Software Engineering, South China University of Technology. 
 
-硕导为韩玉艳老师，博导为向毅老师。
+My Ph.D's supervisor is Prof. Yi Xiang. My master's supervisor is A.P. Yuyan Han.
 
-目前的研究兴趣包括智能制造、智能车间与智能计算、智能电网、迭代贪婪算法、多目标优化算法、进化算法和强化学习。 
+My research interests include intelligent optimization algorithms and their applications (smart manufacturing, smart shop, smart computing, smart grid, iterative greedy algorithms, multi-objective optimization algorithms, evolutionary algorithms, and reinforcement learning). 
 
-已在《IEEE Transactions on Emerging Topics in Computational Intelligence》、《Swarm and Evolutionary Computation》、《Expert Systems with Applications》、《knowledge-based systems》等多个国际著名期刊发表学术论文9篇，详情可查看我的<a href='https://scholar.google.com/citations?user=TaClukkAAAAJ'>谷歌学术主页</a>. 
+I have published 9 academic papers in multiple internationally renowned journals such as IEEE Transactions on Emerging Topics in Computational Intelligence, Swarm and Evolutionary Computation, Expert Systems with Applications, and Knowledge based Systems. Please refer to my <a href='https://scholar.google.com/citations?user=TaClukkAAAAJ'>Google Scholar page</a> for details. 
 
-可以通过邮箱联系到我：987352978@qq.com(推荐), &nbsp;  klaetteqin@gmail.com
+You can contact me via emails: 987352978@qq.com(recommend), &nbsp;  klaetteqin@gmail.com.
