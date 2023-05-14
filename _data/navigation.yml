@@ -2,4 +2,6 @@
 main:
   - title: "英文主页"
     url: "https://klaette.github.io/"
-
+ 
+ - title: "实习"
+    url: "#lab"
