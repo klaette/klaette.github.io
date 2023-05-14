@@ -1,4 +1,4 @@
-# 📖 Academic papers
+# 📖 Publications
 
 ## 📝 Regular Papers
 
