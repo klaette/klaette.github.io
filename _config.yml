@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "秦浩翔"
-description              : "华南理工大学"
+title                    : "Haoxiang Qin"
+description              : "South China University of Technology"
 repository               : "HaoxiangQin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "秦浩翔"
+  name             : "Haoxiang Qin"
   avatar           : "images/qhxpho.png"
-  bio              : "博士在读"
-  location         : "广州, 中国"
+  bio              : "PhD in progress"
+  location         : "Guang Zhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
