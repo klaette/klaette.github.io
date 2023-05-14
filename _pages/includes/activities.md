@@ -1,7 +1,7 @@
-# 🏨 学术活动
-- 2022.08，第五届智能优化与调度学术会议墙展两篇论文， 山西·太原.
-- 2021.06，第四届智能优化与调度学术会议， 湖南·长沙.
-- 2022.10, 第三届智能优化与调度学术会议， 广西·南宁.
+# 🏨 Academic Activities
+- 2022.08，The 5th Academic Conference on Intelligent Optimization and Scheduling, with two papers presented in poster format, Taiyuan, Shanxi.
+- 2021.06，The 4th Conference on Intelligent Optimization and Scheduling, Changsha, Hunan.
+- 2022.10, The 3rd Conference on Intelligent Optimization and Scheduling, Nanning, Guangxi.
 
 
 
