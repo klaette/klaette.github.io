@@ -4,20 +4,11 @@ main:
   - title: "About me"
     url: "/#about me"
     
-  - title: "News"
-    url: "/#-news"
-    
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Project Experience"
-    url: "/#-Project-Experience"
   
   - title: "Hobbies and Interests"
     url: "/#-Hobbies-and-Interests"
@@ -25,7 +16,7 @@ main:
   - title: "Academic Activities"
     url: "/#-Academic-Activities"
     
-  - title: "Cooperating Members"
+  - title: "Others"
     url: "/#-Cooperating-Members"
     
   - title: "Internships"
