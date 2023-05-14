@@ -4,4 +4,7 @@ main:
     url: "https://klaette.github.io/"
  
  - title: "实习"
-   url: "/#-lab"
+   url: "/#lab"
+
+ - title: "实习"
+   url: "/#tutor"
