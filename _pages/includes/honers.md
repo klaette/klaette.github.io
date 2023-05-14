@@ -1,4 +1,4 @@
-# 🎖️ 获奖情况
-- 2022.12 山东省研究生创新成果三等奖. 
-- 2022.05 聊城大学校级与院级优秀学生.
-- 2020.08 人工智能国际研究生暑期学校优秀学员. 
+# 🎖️ Honors and Awards
+- 2022.12 Third Prize for Innovation Achievements of Graduate Students in Shandong Province.
+- 2022.05 Outstanding student at Liaocheng University.
+- 2020.08 Outstanding student of the International Graduate School of Artificial Intelligence. 
