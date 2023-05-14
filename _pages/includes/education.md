@@ -1,4 +1,4 @@
-# 📖 教育经历
-- 2023.06 ~ 2027.09, 华南理工大学软件学院，软件工程理论与方法，工学博士在读 
-- 2020.06 ~ 2023.09, 聊城大学计算机学院，智能优化算法及其应用，工学硕士 
-- 2016.06 ~ 2020.09, 聊城大学计算机学院，软件工程，工学学士
+# 📖 Educations
+- 2023.06 ~ 2027.09, PhD.Eng. Student in School of Software Engineering, South China University of Technology 
+- 2020.06 ~ 2023.09, M.Eng. Student in Schoold of Computer Science and Technology, Liaocheng University
+- 2016.06 ~ 2020.09, B.Eng. student in School of Computer Science and Technology, Liaocheng University
