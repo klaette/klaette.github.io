@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+{% include_relative includes/bar.md %}
+
 <span class='anchor' id='about-me'></span>
 
 {% include_relative includes/intro.md %}
