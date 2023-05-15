@@ -1,6 +1,10 @@
-title: Publications
-ref: publications
-permalink: /publications/
+---
+layout: page
+title: project
+ref: project
+permalink: /project/
+lang: English
+---
 
 # 📚 Project Experience 
 
