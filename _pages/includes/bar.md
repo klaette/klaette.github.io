@@ -1,3 +1,3 @@
-  <p>
-    <a href="/personal/"><U>Biography</U> </a><br /> <a href="/publications/"><U>Publications</U> </a><br /> <a href="/activities/"><U>Activities</U> </a>
-  </p>
+  <div>
+    <a href="/personal/"><U>Biography</U> </a> $nbsp; $nbsp; <a href="/publications/"><U>Publications</U> </a $nbsp; $nbsp; <a href="/activities/"><U>Activities</U> </a>
+  </div>
