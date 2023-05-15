@@ -1,3 +1,7 @@
+title: Publications
+ref: publications
+permalink: /publications/
+
 # 📚 Project Experience 
 
 1. 2022.09-2025.12 Guangyue Youth Scholar Innovation Talent Program support received from Liaocheng University，LCUGYTD2022-03，Key member
