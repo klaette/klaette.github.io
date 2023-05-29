@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Haoxiang Qin"
+titleChinese             : "秦浩翔"
 description              : "South China University of Technology"
+descriptionChinese       : "华南理工大学"
 repository               : "HaoxiangQin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haoxiang Qin"
+  nameChinese      : "秦浩翔"
   avatar           : "images/qhxpho.png"
   bio              : "PhD in progress"
+  bioChinese       : "博士在读"
   location         : "Guang Zhou, China"
+  locationChinese  : "广州, 中国"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -116,7 +121,11 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+collections:
+  Chinese:
+      output: true
+  English:
+      output: true
 # Defaults
 defaults:
   # _pages
@@ -126,7 +135,6 @@ defaults:
     values:
       layout: default
       author_profile: true
-
 
 # Sass/SCSS
 sass:
