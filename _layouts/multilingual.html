@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <style>
+      #chinese{
+        display: none;
+      }
+      #test{
+        display: none;
+      }
+      #testEnglish{
+        display: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="english">
+      {% include English/browser-upgrade.html %}
+      {% include English/masthead.html %}
+      <div id="main" role="main">
+        {% include English/sidebar.html %}
+<!--        <article class="page" id="mainEnglish" itemscope itemtype="http://schema.org/CreativeWork">-->
+<!--          {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}-->
+<!--          <div class="page__inner-wrap">-->
+<!--            <section class="page__content" itemprop="text">-->
+<!--              {{ content }}-->
+<!--            </section>-->
+<!--          </div>-->
+<!--        </article>-->
+        <article id="mainEnglish" class="page" itemscope itemtype="http://schema.org/CreativeWork">
+          {% if Chinese.title%}<meta itemprop="headline" content="{{ Chinese.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+          {% include English/EnglishPageContent.html %}
+        </article>
+        <article class="page " id="testEnglish" itemscope itemtype="http://schema.org/CreativeWork">
+          {% if English.title%}<meta itemprop="headline" content="{{ Chinese.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+          {% include test/testEnglish.html %}
+        </article>
+      </div>
+      {% include English/scripts.html %}
+    </div>
+    <div id="chinese">
+      {% include Chinese/browser-upgrade.html %}
+      {% include Chinese/masthead.html %}
+      <div id="main" role="main">
+        {% include Chinese/sidebar.html %}
+        <article id="mainChinese" class="page" itemscope itemtype="http://schema.org/CreativeWork">
+          {% if Chinese.title%}<meta itemprop="headline" content="{{ Chinese.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+          {% include Chinese/ChinesePageContent.html %}
+        </article>
+        <article class="page" id="testChinese" itemscope itemtype="http://schema.org/CreativeWork">
+          {% if Chinese.title%}<meta itemprop="headline" content="{{ Chinese.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+          {% include test/test.html %}
+        </article>
+      </div>
+
+      {% include Chinese/scripts.html %}
+    </div>
+
+      {% include English/scripts.html %}
+    </div>
+    <script>
+      let changeToEnglish=document.getElementById("changeToEnglish")
+      changeToEnglish.addEventListener("click",()=>{
+        let chinese=document.getElementById("chinese")
+        chinese.style.display="none"
+        let english=document.getElementById("english")
+        english.style.display="block"
+        let mainEnglish=document.getElementById("mainEnglish")
+        mainEnglish.style.display="block"
+        let testEnglish=document.getElementById("testEnglish")
+        testEnglish.style.display="none"
+      })
+      let changeToChinese=document.getElementById("changeToChinese")
+      changeToChinese.addEventListener("click",()=>{
+        let chinese=document.getElementById("chinese")
+        chinese.style.display="block"
+        let english=document.getElementById("english")
+        english.style.display="none"
+        let mainChinese=document.getElementById("mainChinese")
+        mainChinese.style.display="block"
+        let test=document.getElementById("testChinese")
+        test.style.display="none"
+      })
+      let testTitleEnglish=document.getElementById("testTitleEnglish")
+      testTitleEnglish.addEventListener("click",()=>{
+        let english=document.getElementById("mainEnglish")
+        english.style.display="none"
+        let testEnglish=document.getElementById("testEnglish")
+        testEnglish.style.display="block"
+      })
+      let testTitleChinese=document.getElementById("testTitleChinese")
+      testTitleChinese.addEventListener("click",()=>{
+        let chinese=document.getElementById("mainChinese")
+        chinese.style.display="none"
+        let test=document.getElementById("testChinese")
+        test.style.display="block"
+      })
+      let homepageEnglish=document.getElementById("homepageEnglish")
+      homepageEnglish.addEventListener("click",()=>{
+        let english=document.getElementById("mainEnglish")
+        english.style.display="block"
+        let testEnglish=document.getElementById("testEnglish")
+        testEnglish.style.display="none"
+      })
+      let homepageChinese=document.getElementById("homepageChinese")
+      homepageChinese.addEventListener("click",()=>{
+        let chinese=document.getElementById("mainChinese")
+        chinese.style.display="block"
+        let test=document.getElementById("testChinese")
+        test.style.display="none"
+      })
+    </script>
+  </body>
+</html>
