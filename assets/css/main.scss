@@ -107,3 +107,14 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+.title{
+    margin-right: 20px;
+    padding: 20px;
+    max-height: 50px;
+}
+.title:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+}
