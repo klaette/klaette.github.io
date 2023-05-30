@@ -4,11 +4,11 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item" id="homepageChinese" style="display:inline-block;margin-right: 40px">主页</li>
-          <li class="masthead__menu-item" id="changeToEnglish" style="display:inline-block;margin-right: 40px">英文主页</li>
-          <li class="masthead__menu-item" id="testTitleChinese" style="display:inline-block;margin-right: 40px">学术会议</li>
+          <li class="masthead__menu-item" id="changeToEnglish"><div class="title"> 英文主页</div></li>
+          <li class="masthead__menu-item" id="homepageChinese"><div class="title">主页</div></li>
+          <li class="masthead__menu-item" id="testTitleChinese"><div class="title">学术会议</div></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item title"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
