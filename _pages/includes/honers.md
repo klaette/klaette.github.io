@@ -1,6 +1,9 @@
 <h1>🎖️ Honors and Awards</h1>
 <ul>
     <li>
+        2023.05 Outstanding Paper Award for the First Shandong Province Computing Intelligence Conference in 2023.
+    </li>
+    <li>
         2022.12 Third Prize for Innovation Achievements of Graduate Students in Shandong Province.
     </li>
     <li>
