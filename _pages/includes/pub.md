@@ -31,7 +31,7 @@
         A quick and effective iterated greedy algorithm for energy-efficient hybrid flow shop scheduling problem with blocking constraint. <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yuyan Han✉️, Junqing Li, Hongyan Sang, Qingda Chen. <span style="color:#b6321c"><em><strong>2021 11th International Conference on Information Science and Technology (ICIST)</strong></em></span>, Chengdu, China, pp.325-331, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9440648">[10.1109/ICIST52614.2021.9440648]</a> <a href="/pdf/ICIST_qin2021.pdf">[PDF]</a> 
     </li>
     <li>
-        An improved iterated greedy algorithm for the distributed flow shop scheduling problem with sequence-dependent setup times. Xue Han, Yuyan Han✉️, Yiping Liu, Quanke Pan, <span style="color:black"><em>Haoxiang Qin</em></span>, Junqing Li. <span style="color:#b6321c"><em><strong>2021 11th International Conference on Information Science and Technology (ICIST)</strong></em></span>, Chengdu, China, pp.332-340, 2021. <a href="https://ieeexplore.ieee.org/document/9440591">[10.1109/ICIST52614.2021.9440591]</a><a href="/pdf/ICIST_han2021.pdf">[PDF]</a>
+        An improved iterated greedy algorithm for the distributed flow shop scheduling problem with sequence-dependent setup times. Xue Han, Yuyan Han✉️, Yiping Liu, Quanke Pan, <span style="color:black"><strong>Haoxiang Qin</strong></span>, Junqing Li. <span style="color:#b6321c"><em><strong>2021 11th International Conference on Information Science and Technology (ICIST)</strong></em></span>, Chengdu, China, pp.332-340, 2021. <a href="https://ieeexplore.ieee.org/document/9440591">[10.1109/ICIST52614.2021.9440591]</a><a href="/pdf/ICIST_han2021.pdf">[PDF]</a>
     </li>
 </ul>
 
