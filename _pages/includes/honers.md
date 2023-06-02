@@ -1,6 +1,9 @@
 <h1>🎖️ Honors and Awards</h1>
 <ul>
     <li>
+        2023.05 Outstanding graduate of Liaocheng University.
+    </li>
+    <li>
         2023.05 Outstanding Paper Award for the First Shandong Province Computing Intelligence Conference in 2023.
     </li>
     <li>
