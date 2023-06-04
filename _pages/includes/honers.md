@@ -4,7 +4,7 @@
         2023.05 Outstanding graduate of Liaocheng University.
     </li>
     <li>
-        2023.05 Outstanding Paper Award for the First Shandong Province Computing Intelligence Conference in 2023.
+        2023.05 Outstanding Paper Award for the First Shandong Province Computing Intelligence Conference in 2022.
     </li>
     <li>
         2022.12 Third Prize for Innovation Achievements of Graduate Students in Shandong Province.
