@@ -1,6 +1,9 @@
 <h1>🎖️ Honors and Awards</h1>
 <ul>
     <li>
+        2023.06 Outstanding Master's Thesis of Liaocheng University.
+    </li>
+    <li>
         2023.05 Outstanding graduate of Liaocheng University.
     </li>
     <li>
