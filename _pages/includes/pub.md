@@ -2,14 +2,11 @@
 
 <h2>📝 Regular Papers</h2>
 
-        1. Energy Efficient Iterative Greedy Algorithm for the Distributed Hybrid Flow Shop Scheduling with Blocking Constraints. 
-        
-        <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>, Yuyan Han✉️, Qingda Chen, Ling Wang, Yuting Wang, Junqing Li, and Yiping Liu. 
-        
-        <span style="color:#b6321c" id="TETCI"><em><strong>IEEE Transactions on Emerging Topics in Computational Intelligence</strong></em></span>, Accepted, 2023.<a href="https://ieeexplore.ieee.org/document/10121391">[DOI: 10.1109/TECI.2023.3271331]</a><a href="/pdf/DBHFSP_TETCI.pdf">[PDF]</a>, <strong>Impact Factor: 4.851, Q2</strong>
-   
 <ol>
     <li>
+        <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>, Yuyan Han✉️, Qingda Chen, Ling Wang, Yuting Wang, Junqing Li, and Yiping Liu. Energy Efficient Iterative Greedy Algorithm for the Distributed Hybrid Flow Shop Scheduling with Blocking Constraints. <span style="color:#b6321c" id="TETCI"><em><strong>IEEE Transactions on Emerging Topics in Computational Intelligence</strong></em></span>, Accepted, 2023.<a href="https://ieeexplore.ieee.org/document/10121391">[DOI: 10.1109/TECI.2023.3271331]</a><a href="/pdf/DBHFSP_TETCI.pdf">[PDF]</a>, <strong>Impact Factor: 4.851, Q2</strong>
+    </li>
+     <li>
         Intelligent Optimization Under Blocking Constraints: A Novel Iterated Greedy Algorithm for the Hybrid Flow-Shop Group Scheduling Problems. <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yuyan Han✉️, Yuting Wang✉️, Yiping Liu, Junqing Li, and Quanke Pan. <span style="color:#b6321c"><em><strong>knowledge-based systems</strong></em></span>, vol.258, no. 109962, pp.1-24, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0950705122010553">[DOI: 10.1016/j.knosys.2022.109962]</a><a href="/pdf/DBHFSP_KBS.pdf">[PDF]</a>, <strong>Impact Factor: 8.139, Q1</strong>
     </li>
     <li>
