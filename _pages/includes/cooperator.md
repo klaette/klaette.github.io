@@ -2,7 +2,7 @@
 <h3 id="tutor">---Graduate Student tutors---</h3>
 
 - <div><img src='images/XY.png' alt="XY" width="8%"><A href="https://www2.scut.edu.cn/sse/2021/0827/c16789a439368/page.htm"> Yi Xiang</a>  (My PhD advisor, associate Professor of South China University of Technology, he is a doctoral supervisor)  </div>
-- <div><img src='images/HYY.jpg' alt="HYY" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339854.htm"> Yuyan Han</a>  (My supervisor, associate professor of Liaocheng University, she is the supervisor of master students)  </div>
+- <div><img src='images/HYY.jpg' alt="HYY" width="8%"><A href="https://scholar.google.com.hk/citations?user=qZscC4wAAAAJ&hl=zh-CN"> Yuyan Han</a>  (My supervisor, associate professor of Liaocheng University, she is the supervisor of master students)  </div>
 
 <h3>---Paper co-authorship---</h3>
 
