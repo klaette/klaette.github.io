@@ -6,7 +6,7 @@
 
 <h3>---Paper co-authorship---</h3>
 
-- <div><img src='images/WL.png' alt="WL" width="8%"><A href="https://www.au.tsinghua.edu.cn/info/1107/1558.htm"> LIng Wang</a> (He is a professor at Tsinghua University, a doctoral supervisor, a recipient of the National Outstanding Youth Fund, and and is named one of the top 100000 scientists in the world)</div>
+- <div><img src='images/WL.png' alt="WL" width="8%"><A href="https://scholar.google.com.hk/citations?user=lC7bVMwAAAAJ&hl=zh-CN"> LIng Wang</a> (He is a professor at Tsinghua University, a doctoral supervisor, a recipient of the National Outstanding Youth Fund, and and is named one of the top 100000 scientists in the world)</div>
 - <div><img src='images/MFT.png' alt="MFT" width="8%"><A href="https://scholar.google.com/citations?user=pYeRQGEAAAAJ"> M.Fatih Tasgetiren</a> (He is a professor and doctoral supervisor of Baskent University in Türkiye)</div>
 - <div><img src='images/QKP.png' alt="QKP" width="8%"><A href="https://automation.shu.edu.cn/info/1066/1886.htm"> Quanke Pan</a> (He is a professor at Shanghai University, a doctoral supervisor, and a highly cited scientist worldwide)</div>
 - <div><img src='images/DWG.png' alt="DWG" width="8%"><A href="http://yjsxt.cumt.edu.cn/Gwork/Teacher/TeacherInfo.aspx?EID=LaosoqV95obY7S8CqYNid38k6GPaqAQX"> Dunwei Gong</a> (He is a professor and doctoral supervisor at China University of Mining and Technology)</div>
