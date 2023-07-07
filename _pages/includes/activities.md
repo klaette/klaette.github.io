@@ -1,7 +1,7 @@
 <h1>🏨 Academic Activities</h1>
 <ul>
     <li>
-        2023.07，IJCAI Young Elite Symposium (CCF-A), Shanghai, China.
+        2023.07，IJCAI Young Elite Symposium (CCF-A), East China Normal University, Shanghai.
     </li>
     <li>
         2023.05，The 6th Academic Conference on Intelligent Optimization and Scheduling, Zhangjiajie, Hunan.
