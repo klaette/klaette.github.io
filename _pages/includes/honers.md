@@ -1,6 +1,9 @@
 <h1>🎖️ Honors and Awards</h1>
 <ul>
     <li>
+        2023.07 Bronze medal winner in the competition of Evolutionary computation in the energy domain: operation and planning applications, GECCO 2023 & IEEE CEC 2023 (Joint competition).
+    </li>
+    <li>
         2023.06 First Prize for Outstanding Graduate Achievements of Liaocheng University.
     </li>
     <li>
