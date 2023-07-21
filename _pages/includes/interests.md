@@ -15,7 +15,7 @@
     Multi-objective optimization, constrained multi-objective optimization (NSGA-II algorithm, MOEA/D algorithm, Meme algorithm)
     </li>
     <li>
-    Deep Reinforcement Learning, Reinforcement learning, Graph Neural network
+    Deep Reinforcement Learning, Neural network, and Reinforcement learning
     </li>
     <li>
     Route Planning
