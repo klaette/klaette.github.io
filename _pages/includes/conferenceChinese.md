@@ -1,4 +1,4 @@
-<h1>🏨 学术会议</h1>
+<h1>🏨 照片与证书</h1>
 <ul>
     <li>
     <div><img src='images/IJCAI2023.jpg' alt="IJCAI2023" width="100%"></div>
