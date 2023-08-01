@@ -1,4 +1,4 @@
-<h1>🏨 Academic Conferences</h1>
+<h1>🏨 Photos and Certificates</h1>
 <ul>
     <li>
     <div><img src='images/IJCAI2023.jpg' alt="IJCAI2023" width="100%"></div>
