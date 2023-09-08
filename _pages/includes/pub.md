@@ -3,6 +3,9 @@
 <h2>📝 Regular Papers</h2>
 
 <ol>
+     <li>
+        <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>, Wenlei Bai, Yi Xiang✉️, Fangqing Liu, Yuyan Han, and Ling Wang. A Self-adaptive Collaborative Differential Evolution Algorithm for Solving Energy Resource Management Problems in Smart Grids. <span style="color:#b6321c" id="TEVC"><em><strong>IEEE Transactions on Evolutionary Computation</strong></em></span>, Accepted, 2023.<a href="https://ieeexplore.ieee.org/document/10242385">[DOI: doi: 10.1109/TEVC.2023.3312769]</a><a href="/pdf/SADEA_ERM.pdf">[PDF]</a>, <strong>Impact Factor: 14.3, Q1</strong>
+    </li>
     <li>
         <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>, Yuyan Han✉️, Qingda Chen, Ling Wang, Yuting Wang, Junqing Li, and Yiping Liu. Energy Efficient Iterative Greedy Algorithm for the Distributed Hybrid Flow Shop Scheduling with Blocking Constraints. <span style="color:#b6321c" id="TETCI"><em><strong>IEEE Transactions on Emerging Topics in Computational Intelligence</strong></em></span>, Accepted, 2023.<a href="https://ieeexplore.ieee.org/document/10121391">[DOI: 10.1109/TECI.2023.3271331]</a><a href="/pdf/DBHFSP_TETCI.pdf">[PDF]</a>, <strong>Impact Factor: 5.3, Q2</strong>
     </li>
