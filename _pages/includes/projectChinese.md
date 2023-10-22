@@ -18,6 +18,6 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
-        《Reliability Engineering & System Safety》审稿人. 2023.
+        <strong>《Reliability Engineering & System Safety》</strong>审稿人. 2023.
     </li>
 </ul>
