@@ -14,3 +14,11 @@
         2019.01-2021.12 National Natural Science Foundation of China，Evolutionary optimization algorithm for multi-modal and multi-objective hybrid flow scheduling（Number：61803192）, member
     </li>
 </ol>
+
+<h1>📝 Academic part-time jobs </h1>
+
+<ul>
+    <li>
+        Reviewer of Reliability Engineering & System Safety. 2023.
+    </li>
+</ul>
