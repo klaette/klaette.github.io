@@ -19,6 +19,6 @@
 
 <ul>
     <li>
-        Reviewer of Reliability Engineering & System Safety. 2023.
+        Reviewer of <em><strong>Reliability Engineering & System Safety</strong></em>. 2023.
     </li>
 </ul>
