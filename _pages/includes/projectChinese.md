@@ -18,6 +18,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+        <strong>《Journal of Cleaner Production》</strong>审稿人. 2024.
+    </li>
+    <li>
         <strong>《Reliability Engineering & System Safety》</strong>审稿人. 2023.
     </li>
 </ul>
