@@ -19,9 +19,9 @@
 
 <ul>
     <li>
-        Reviewer of <strong>《Reliability Engineering & System Safety》</strong>. 2023.
+        Reviewer of <strong>《Journal of Cleaner Production》</strong>. 2024.
     </li>
     <li>
-        Reviewer of <strong>《Journal of Cleaner Production》</strong>. 2024.
+        Reviewer of <strong>《Reliability Engineering & System Safety》</strong>. 2023.
     </li>
 </ul>
