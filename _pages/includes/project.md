@@ -19,9 +19,9 @@
 
 <ul>
     <li>
-        Reviewer of <strong>《Journal of Cleaner Production》</strong> (Q1, Impact Factor: 11.1), 2024.
+        Reviewer of <strong>《Journal of Cleaner Production》</strong> (Impact Factor: 11.1, Q1), 2024.
     </li>
     <li>
-        Reviewer of <strong>《Reliability Engineering & System Safety》</strong> (Q1, Impact Factor: 8.1), 2023.
+        Reviewer of <strong>《Reliability Engineering & System Safety》</strong> (Impact Factor: 8.1, Q1), 2023.
     </li>
 </ul>
