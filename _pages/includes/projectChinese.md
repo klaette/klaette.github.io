@@ -18,9 +18,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
-        <strong>《Journal of Cleaner Production》</strong>审稿人 (SCI一区, 影响因子: 11.1). 2024.
+        <strong>《Journal of Cleaner Production》</strong>审稿人 (SCI一区, 影响因子: 11.1), 2024.
     </li>
     <li>
-        <strong>《Reliability Engineering & System Safety》</strong>审稿人 (SCI一区, 影响因子: 8.1). 2023.
+        <strong>《Reliability Engineering & System Safety》</strong>审稿人 (SCI一区, 影响因子: 8.1), 2023.
     </li>
 </ul>
