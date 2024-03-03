@@ -1,8 +1,11 @@
 <h1>📖 Publications</h1>
 
 <h2>📝 Master Thesis</h2>
-
-
+<ul>
+    <li>
+        2023.07 Bronze medal winner in the competition of Evolutionary computation in the energy domain: operation and planning applications, GECCO 2023 & IEEE CEC 2023 (Joint competition).
+    </li>
+</ul>
 <h2>📝 Regular Papers</h2>
 
 <ol>
