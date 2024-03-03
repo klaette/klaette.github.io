@@ -3,7 +3,7 @@
 <h2>🎓 硕士毕业论文</h2>
 <ul>
     <li>
-        <span style="color:black"><strong>秦浩翔</strong></strong></span>. 基于迭代贪婪算法的阻塞混合流水车间调度问题研究. <span style="color:black" id="Master_Thesis"><em><strong>聊城大学</strong></em></span> <a href="/pdf/Master_Thesis.pdf">[PDF]</a>.
+        <span style="color:black"><strong>秦浩翔</strong></strong></span>. 基于迭代贪婪算法的阻塞混合流水车间调度问题研究. <span style="color:black" id="Master_Thesis"><em><strong>聊城大学</strong></em></span>, 2023. <a href="/pdf/Master_Thesis.pdf">[PDF]</a>.
     </li>
 </ul>
 
