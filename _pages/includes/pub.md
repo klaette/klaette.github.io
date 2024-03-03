@@ -3,7 +3,7 @@
 <h2>📝 Master Thesis</h2>
 <ul>
     <li>
-        2023.07 Bronze medal winner in the competition of Evolutionary computation in the energy domain: operation and planning applications, GECCO 2023 & IEEE CEC 2023 (Joint competition).
+        <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>. Blocking hybrid flow shop scheduling problems based on iterative greedy algorithms. <span style="color:#b6321c" id="TEVC"><em><strong>Liaocheng University</strong></em></span> <a href="/pdf/SADEA_ERM.pdf">[PDF]</a>.
     </li>
 </ul>
 <h2>📝 Regular Papers</h2>
