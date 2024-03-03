@@ -3,7 +3,7 @@
 <h2>🎓 Master Thesis</h2>
 <ul>
     <li>
-        <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>. Blocking hybrid flow shop scheduling problems based on iterative greedy algorithms. <span style="color:black" id="Master_Thesis"><em><strong>Liaocheng University</strong></em></span>, 2023, <a href="/pdf/Master_Thesis.pdf">[PDF]</a>.
+        <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>. Blocking hybrid flow shop scheduling problems based on iterative greedy algorithms. <span style="color:black" id="Master_Thesis"><em><strong>Liaocheng University</strong></em></span>, 2023. <a href="/pdf/Master_Thesis.pdf">[PDF]</a>.
     </li>
 </ul>
 <h2>📝 Regular Papers</h2>
