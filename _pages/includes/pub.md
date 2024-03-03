@@ -1,5 +1,8 @@
 <h1>📖 Publications</h1>
 
+<h2>📝 Master Thesis</h2>
+
+
 <h2>📝 Regular Papers</h2>
 
 <ol>
