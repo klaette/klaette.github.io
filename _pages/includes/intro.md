@@ -4,6 +4,6 @@
 
 <p>My research interests include intelligent optimization algorithms and their applications (Smart Computing, Smart Grid, Quality-Diversity Optimization, Iterative Greedy Algorithms, Multi-Objective Optimization Algorithms, Evolutionary Algorithms, Neural Network, and Reinforcement Learning). </p>
 
-<p>I have published 10 academic papers in multiple internationally renowned journals such as 《IEEE Transactions on Evolutionary Computation》, 《IEEE Transactions on Emerging Topics in Computational Intelligence》, 《Swarm and Evolutionary Computation》, 《Expert Systems with Applications》, and 《Knowledge based Systems》. Please refer to my <a href='https://scholar.google.com/citations?user=TaClukkAAAAJ'>Google Scholar page</a> for details. </p>
+<p>I have published 10 academic papers in multiple internationally renowned journals such as 《IEEE Transactions on Evolutionary Computation》, 《IEEE Transactions on Emerging Topics in Computational Intelligence》, 《Swarm and Evolutionary Computation》, 《Expert Systems with Applications》, and 《Knowledge based Systems》. Please refer to my <a href='https://scholar.google.cz/citations?user=3MYTQeoAAAAJ&hl=zh-CN'>Google Scholar page</a> for details. </p>
 
 <p>You can contact me via emails: 987352978@qq.com(recommend), &nbsp;  klaetteqin@gmail.com.</p>
