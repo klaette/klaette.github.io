@@ -7,7 +7,7 @@
 <h3>---论文合著成员---</h3>
 
 - <div><img src='images/WL.png' alt="WL" width="8%"><A href="https://www.au.tsinghua.edu.cn/info/1107/1558.htm"> 王凌</a> (清华大学教授， 博士生导师，国家杰出青年基金获得者，全球前10万顶尖科学家)</div>
-- <div><img src='images/Lee.jpg' alt="Lee" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=EvIfUGkAAAAJ"> Kwang Y. Lee</a> (IEEE Fellow, 贝勒大学电气与计算机工程系教授兼系主任)</div>
+- <div><img src='images/Lee.png' alt="Lee" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=EvIfUGkAAAAJ"> Kwang Y. Lee</a> (IEEE Fellow, 贝勒大学电气与计算机工程系教授兼系主任)</div>
 - <div><img src='images/MFT.png' alt="MFT" width="8%"><A href="https://scholar.google.com/citations?user=pYeRQGEAAAAJ"> M.Fatih Tasgetiren</a> (土耳其巴斯肯特大学教授， 博士生导师)</div>
 - <div><img src='images/QKP.png' alt="QKP" width="8%"><A href="https://automation.shu.edu.cn/info/1066/1886.htm"> 潘全科</a> (上海大学教授， 博士生导师，全球高被引科学家)</div>
 - <div><img src='images/DWG.png' alt="DWG" width="8%"><A href="http://yjsxt.cumt.edu.cn/Gwork/Teacher/TeacherInfo.aspx?EID=LaosoqV95obY7S8CqYNid38k6GPaqAQX"> 巩敦卫</a> (中国矿业大学教授， 博士生导师)</div>
