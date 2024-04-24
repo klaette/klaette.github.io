@@ -6,6 +6,7 @@
 
 <h3>---Paper co-authorship---</h3>
 
+- <div><img src='images/YCJ.png' alt="WL" width="8%"><A href="https://scholar.google.com.hk/citations?user=lC7bVMwAAAAJ&hl=zh-CN"> Ling Wang</a> (He is a professor at Westlake University, a doctoral supervisor and the member of the European Academy of Sciences)</div>
 - <div><img src='images/WL.png' alt="WL" width="8%"><A href="https://scholar.google.com.hk/citations?user=lC7bVMwAAAAJ&hl=zh-CN"> Ling Wang</a> (He is a professor at Tsinghua University, a doctoral supervisor, a recipient of the National Outstanding Youth Fund, and is named one of the top 100000 scientists in the world)</div>
 - <div><img src='images/Lee.png' alt="Lee" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=EvIfUGkAAAAJ"> Kwang Y. Lee</a> (IEEE Fellow, he is a Professor and Chair of the Electrical and Computer Engineering Department at Baylor University)</div>
 - <div><img src='images/MFT.png' alt="MFT" width="8%"><A href="https://scholar.google.com/citations?user=pYeRQGEAAAAJ"> M.Fatih Tasgetiren</a> (He is a professor and doctoral supervisor of Baskent University in Türkiye)</div>
