@@ -23,6 +23,6 @@
 
 
 <h1>💭 特别感谢</h1>
-- <div><img src='images/MJZ.png' alt="MJZ" width="8%"><A href="https://people.wgtn.ac.nz/Mengjie.Zhang"> 张孟杰</a>  (IEEE Fellow, 新西兰惠灵顿维多利亚大学计算机科学教授， 博士生导师)  </div>
+- <div><img src='images/MJZ.png' alt="MJZ" width="8%"><A href="https://people.wgtn.ac.nz/Mengjie.Zhang"> 张孟杰</a>  (IEEE Fellow, 新西兰惠灵顿维多利亚大学计算机科学系教授， 博士生导师)  </div>
 - <div><img src='images/Hisao.png' alt="Hisao" width="8%"><A href="https://faculty.sustech.edu.cn/?tagid=hisao&iscss=1&snapid=1&orderby=date&go=1"> Hisao Ishibuchi</a>  (IEEE Fellow, 南方科技大学计算机系讲座教授，博士生导师) </div>
 - <div><img src='images/MFT.png' alt="MFT" width="8%"><A href="https://scholar.google.com/citations?user=pYeRQGEAAAAJ"> M.Fatih Tasgetiren</a> (土耳其巴斯肯特大学教授， 博士生导师)</div>
