@@ -8,6 +8,7 @@
 - <div><img src='images/YCJ.png' alt="YCJ" width="8%"><A href="https://scholar.google.com.hk/citations?hl=zh-CN&user=B5WAkz4AAAAJ"> 金耀初</a> (IEEE Fellow， 欧洲科学院院士， 国家特聘专家， 长江学者讲座教授， 西湖大学人工智能讲席教授， 博士生导师)</div>
 - <div><img src='images/Lee.png' alt="Lee" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=EvIfUGkAAAAJ"> Kwang Y. Lee</a> (IEEE Fellow, 贝勒大学电气与计算机工程系教授兼系主任)</div>
 - <div><img src='images/WL.png' alt="WL" width="8%"><A href="https://www.au.tsinghua.edu.cn/info/1107/1558.htm"> 王凌</a> (清华大学教授， 博士生导师，国家杰出青年基金获得者，全球前10万顶尖科学家)</div>
+- <div><img src='images/HH.png' alt="HH" width="8%"><A href="https://www2.scut.edu.cn/sse/2018/0615/c16788a270753/page.htm"> 黄翰 </a>  (华南理工大学教授, 博士生导师, 国家级青年人才项目入选者)  </div>
 - <div><img src='images/QKP.png' alt="QKP" width="8%"><A href="https://automation.shu.edu.cn/info/1066/1886.htm"> 潘全科</a> (上海大学教授， 博士生导师，全球高被引科学家)</div>
 - <div><img src='images/DWG.png' alt="DWG" width="8%"><A href="http://yjsxt.cumt.edu.cn/Gwork/Teacher/TeacherInfo.aspx?EID=LaosoqV95obY7S8CqYNid38k6GPaqAQX"> 巩敦卫</a> (中国矿业大学教授， 博士生导师)</div>
 - <div><img src='images/YLiu.png' alt="YLiu" width="8%"><A href="http://csee.hnu.edu.cn/people/liuyiping"> 刘益萍</a> (湖南大学副教授， 博士生导师，岳麓学者)</div>
