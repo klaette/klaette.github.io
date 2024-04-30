@@ -29,6 +29,9 @@
         <span style="color:black"><b>秦浩翔</b></span>, 韩玉艳✉️， 陈庆达， 李俊青， 桑红燕. 求解阻塞混合流水车间调度的双层变异迭代贪婪算法. <span style="color:#b6321c"><em><strong>控制与决策</strong></em></span>, vol.37, no. 9, pp.2323-2332, 2021. <a href="https://kns.cnki.net/kcms2/article/abstract?v=pbvOL2cnFbIphAMVPFs9TwXrLQnIRXiVSTC5Nf7PsYIP51Sms43Ofyi4uGCjYngsqmVi19Jb98swIXlbf58A0JcGn48k0Xf2rcITBBWmSk-b5AbixEoY9Qydn0EHnv38qhA7C7ZfGELsu21tRVeY4A==&uniplatform=NZKPT&language=CHS">[10.13195/j.kzyjc.2021.0607]</a>  <a href="/pdf/BHFSP_CAD.pdf">[PDF]</a>, <strong>EI, 北大核心, 中文权威期刊</strong>.
     </li>
     <li>
+        Wenlei Bai✉️, Fanlin Meng, Ming Sun, <span style="color:black"><strong>Haoxiang Qin</strong></span>, Richard Allmendinger, Kwang Y Lee. Differential Evolutionary Particle Swarm Optimization with Orthogonal Learning for Wind Integrated Optimal Power Flow. <span style="color:#b6321c"><em><strong>Applied soft computing</strong></em></span>, no.111662, 2024. <a href="https://www.sciencedirect.com/science/article/pii/S1568494624004368">[10.1016/j.asoc.2024.111662]</a> <a href="/pdf/PSO_OPF.pdf">[PDF]</a>, <strong>影响因子: 8.7, 中科院SCI二区</strong>
+    </li>
+    <li>
          Xue Han, Yuyan Han✉️, Biao Zhang, <span style="color:black"><em>Haoxiang Qin</em></span>, Junqing Li, Yiping Liu, Dunwei Gong. An effective local search algorithm with restart strategy for energy-efficient distributed blocking flowshop scheduling problem with setup times. <span style="color:#b6321c"><em><strong>Applied soft computing</strong></em></span>, vol.129, no. 109502, pp.2323-2332, 2022. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494622005920?via%3Dihub">[10.1016/j.asoc.2022.109502]</a> <a href="/pdf/DBFSP_ASOC.pdf">[PDF]</a>, <strong>影响因子: 8.263, 中科院SCI二区</strong>.
     </li>
 </ol>
