@@ -23,3 +23,6 @@
 - <div><img src='images/MLL.png' alt="MLL" width="8%"><A href="https://cs.lcu.edu.cn/szdw/431879.htm"> 孟磊磊</a>  (聊城大学讲师, 硕士生导师)  </div>
 
 
+<h1>💭 特别感谢</h1>
+- <div><img src='images/MJZ.png' alt="MJZ" width="8%"><A href="https://people.wgtn.ac.nz/Mengjie.Zhang"> Mengjie Zhang</a>  (IEEE Fellow, 新西兰惠灵顿维多利亚大学计算机科学教授， 博士生导师)  </div>
+- <div><img src='images/Hisao.png' alt="Hisao" width="8%"><A href="https://faculty.sustech.edu.cn/?tagid=hisao&iscss=1&snapid=1&orderby=date&go=1"> Hisao Ishibuchi</a>  (IEEE Fellow, 南方科技大学计算机系讲座教授，博士生导师) </div>
