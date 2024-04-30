@@ -21,8 +21,8 @@
 - <div><img src='images/SHY.png' alt="SHY" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339857.htm"> Hongyan Sang</a>  (She is a professor, master's supervisor, and part-time doctoral supervisor at Liaocheng University)  </div>
 - <div><img src='images/ZB.png' alt="ZB" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339836.htm"> Biao Zhang</a>  (He is an associate professor and master's supervisor at Liaocheng University)  </div>
 
-<h1> Special thanks</h1>
-- <div><img src='images/MJZ.png' alt="MJZ" width="8%"><A href="https://cs.lcu.edu.cn/szdw/431879.htm"> Mengjie Zhang</a>  (He is a lecturer and master's supervisor at Liaocheng University)  </div>
+<h1>💭 Special thanks</h1>
+- <div><img src='images/MJZ.png' alt="MJZ" width="8%"><A href="https://people.wgtn.ac.nz/Mengjie.Zhang"> Mengjie Zhang</a>  (IEEE Fellow, He is the professor of Computer Science at Victoria University of Wellington)  </div>
 - <div><img src='images/Hisao.png' alt="Hisao" width="8%"><A href="https://faculty.sustech.edu.cn/?tagid=hisao&iscss=1&snapid=1&orderby=date&go=1"> Hisao Ishibuchi</a>  (IEEE Fellow, he is the Chair Professor of Computer Science at the Southern University of Science and Technology) </div>
 
 
