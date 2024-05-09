@@ -4,7 +4,7 @@
 - <div><img src='images/XY.png' alt="XY" width="8%"><A href="https://scholar.google.com.hk/citations?user=RGgm8QQAAAAJ&hl=zh-CN"> Yi Xiang</a>  (My PhD advisor, associate Professor of South China University of Technology, he is a doctoral supervisor)  </div>
 - <div><img src='images/HYY.jpg' alt="HYY" width="8%"><A href="https://scholar.google.com.hk/citations?user=qZscC4wAAAAJ&hl=zh-CN"> Yuyan Han</a>  (My supervisor, associate professor of Liaocheng University, she is the supervisor of master students)  </div>
 
-<h3>---Paper co-authorship---</h3>
+<h3>---Co-authorship---</h3>
 
 - <div><img src='images/YCJ.png' alt="YCJ" width="8%"><A href="https://scholar.google.com.hk/citations?hl=zh-CN&user=B5WAkz4AAAAJ"> Yaochu Jin</a> (IEEE Fellow, He is a professor at Westlake University, a doctoral supervisor and the member of the European Academy of Sciences)</div>
 - <div><img src='images/Lee.png' alt="Lee" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=EvIfUGkAAAAJ"> Kwang Y. Lee</a> (IEEE Fellow, he is a Professor and Chair of the Electrical and Computer Engineering Department at Baylor University)</div>
