@@ -4,7 +4,7 @@
 - <div><img src='images/XY.png' alt="XY" width="8%"><A href="https://www2.scut.edu.cn/sse/2021/0827/c16789a439368/page.htm"> 向毅</a>  (我的博导, 华南理工大学副教授, 博士生导师)  </div>
 - <div><img src='images/HYY.jpg' alt="HYY" width="8%"><A href="https://scholar.google.com.hk/citations?user=qZscC4wAAAAJ&hl=zh-CN"> 韩玉艳</a>  (我的硕导, 聊城大学副教授, 硕士生导师)  </div>
 
-<h3>---论文合著成员---</h3>
+<h3>---合著成员---</h3>
 - <div><img src='images/YCJ.png' alt="YCJ" width="8%"><A href="https://scholar.google.com.hk/citations?hl=zh-CN&user=B5WAkz4AAAAJ"> 金耀初</a> (IEEE Fellow， 欧洲科学院院士， 国家特聘专家， 长江学者讲座教授， 西湖大学人工智能讲席教授， 博士生导师)</div>
 - <div><img src='images/Lee.png' alt="Lee" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=EvIfUGkAAAAJ"> Kwang Y. Lee</a> (IEEE Fellow, 贝勒大学电气与计算机工程系教授兼系主任)</div>
 - <div><img src='images/WL.png' alt="WL" width="8%"><A href="https://www.au.tsinghua.edu.cn/info/1107/1558.htm"> 王凌</a> (清华大学教授， 博士生导师，国家杰出青年基金获得者，全球前10万顶尖科学家)</div>
