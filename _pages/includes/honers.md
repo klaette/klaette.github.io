@@ -1,6 +1,9 @@
 <h1>🎖️ Honors and Awards</h1>
 <ul>
     <li>
+        2024.05 The 7th Academic Conference on Intelligent Optimization and Scheduling, Outstanding Master's Thesis Award.
+    </li>
+    <li>
         2023.07 Bronze medal winner in the competition of Evolutionary computation in the energy domain: operation and planning applications, GECCO 2023 & IEEE CEC 2023 (Joint competition).
     </li>
     <li>
