@@ -3,13 +3,13 @@
 <h2>👀 Research Interests</h2>
 <ul>
     <li>
-    Shop Scheduling (Hybrid Flow Shop, Blocking Flow Shop, Distributed Scheduling, Group, etc)
+    Shop Scheduling (Flexible Job Shop, Hybrid Flow Shop, Blocking Flow Shop, Distributed Scheduling, Group, etc)
     </li>
     <li>
     Electric Scheduling（Smart Grids，ERM Power System Optimization，Uncertain，Risk Factor, etc）
     </li>
     <li>
-    Intelligent optimization algorithms（Metaheuristics, such as iterative greedy algorithms, genetic algorithms, differential evolution algorithms, etc; Heuristic algorithms such as NEH algorithm, MME algorithm, etc）
+    Intelligent optimization algorithms（Metaheuristics, such as Quality-Diversity algorithm, iterative greedy algorithms, genetic algorithms, differential evolution algorithms, etc; Heuristic algorithms such as NEH algorithm, MME algorithm, etc）
     </li>
     <li>
     Multi-objective optimization, constrained multi-objective optimization (NSGA-II algorithm, MOEA/D algorithm, Meme algorithm)
