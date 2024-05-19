@@ -20,6 +20,7 @@
 - <div><img src='images/GKZ.png' alt="GKZ" width="8%"><A href="https://scholar.google.com.hk/citations?user=ilQC9jQAAAAJ&hl=zh-CN"> Kaizhou Gao</a>  (He is an assistant professor at Macau University of Science and Technology, a lecturer at Liaocheng University, and a master's supervisor)  </div>
 - <div><img src='images/SHY.png' alt="SHY" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339857.htm"> Hongyan Sang</a>  (She is a professor, master's supervisor, and part-time doctoral supervisor at Liaocheng University)  </div>
 - <div><img src='images/ZB.png' alt="ZB" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339836.htm"> Biao Zhang</a>  (He is an associate professor and master's supervisor at Liaocheng University)  </div>
+- <div><img src='images/MLL.png' alt="MLL" width="8%"><A href="https://cs.lcu.edu.cn/szdw/431879.htm"> Leilei Meng</a>  (He is an associate professor and master's supervisor at Liaocheng University)  </div>
 
 <h1>💭 Special thanks</h1>
 - <div><img src='images/MJZ.png' alt="MJZ" width="8%"><A href="https://people.wgtn.ac.nz/Mengjie.Zhang"> Mengjie Zhang</a>  (IEEE Fellow, He is the professor of Computer Science at Victoria University of Wellington)  </div>
