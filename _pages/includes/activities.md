@@ -1,6 +1,9 @@
 <h1>🏨 Academic Activities</h1>
 <ul>
     <li>
+        2024.05，The 7th Academic Conference on Intelligent Optimization and Scheduling, Outstanding Master's Thesis Award, Wuxi, Jiangsu.
+    </li>
+    <li>
         2023.07，IJCAI Young Elite Symposium (CCF-A), East China Normal University, Shanghai.
     </li>
     <li>
