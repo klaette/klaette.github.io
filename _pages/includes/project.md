@@ -19,6 +19,9 @@
 
 <ul>
     <li>
+        Reviewer of <strong>《Swarm and Evolutionary Computation》</strong> (Impact Factor: 10.0, Q1), 2024.
+    </li>
+    <li>
         Reviewer of <strong>《Journal of Cleaner Production》</strong> (Impact Factor: 11.1, Q1), 2024.
     </li>
     <li>
