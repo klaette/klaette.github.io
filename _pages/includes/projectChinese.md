@@ -18,6 +18,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+        <strong>《Swarm and Evolutionary Computation》</strong>审稿人 (SCI一区, 影响因子: 10.0), 2024.
+    </li>
+    <li>
         <strong>《Journal of Cleaner Production》</strong>审稿人 (SCI一区, 影响因子: 11.1), 2024.
     </li>
     <li>
