@@ -1,7 +1,7 @@
 <h1>🏨 照片与证书</h1>
 <ul>
      <li>
-    <div><img src='images/WCCI2024.jpg' alt="WCCI2024" width="100%"></div>
+    <div><img src='images/WCCI2024.png' alt="WCCI2024" width="100%"></div>
     </li>
      <li>
      <div><img src='images/GECCO2024.png' alt="GECCO2024" width="100%"></div>
