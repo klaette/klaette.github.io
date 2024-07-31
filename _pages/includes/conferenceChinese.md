@@ -1,12 +1,6 @@
 <h1>🏨 照片与证书</h1>
 <ul>
      <li>
-    <div><img src='images/WCCI2024.png' alt="WCCI2024" width="100%"></div>
-    </li>
-     <li>
-     <div><img src='images/GECCO2024.png' alt="GECCO2024" width="100%"></div>
-    </li>
-     <li>
     <div><img src='images/CEC2023.png' alt="CEC2023" width="100%"></div>
     </li> 
      <li>
@@ -26,8 +20,7 @@
     </li>
      <li>
     <div><img src='images/photo4.jpg' alt="photo4" width="100%"></div>
-    </li>
-      
+    </li>  
     <li>
     <div><img src='images/IJCAI2023.jpg' alt="IJCAI2023" width="100%"></div>
     </li>
