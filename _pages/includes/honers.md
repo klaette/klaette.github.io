@@ -1,9 +1,6 @@
 <h1>🎖️ Honors and Awards</h1>
 <ul>
     <li>
-        2024.07 Silver medal winner in the competition of Evolutionary computation in the energy domain: Optimal PV System Allocation, IEEE WCCI 2024 & GECCO 2024 (Joint competition).
-    </li>
-    <li>
         2024.05 The 7th Academic Conference on Intelligent Optimization and Scheduling, Outstanding Master's Thesis Award.
     </li>
     <li>
