@@ -1,6 +1,9 @@
 <h1>🏨 Academic Activities</h1>
 <ul>
     <li>
+        2024.08，The 6th International Conference on Data-driven Optimization of Complex Systems, Hangzhou, Zhejiang.
+    </li>
+    <li>
         2024.05，The 7th Academic Conference on Intelligent Optimization and Scheduling, Outstanding Master's Thesis Award, Wuxi, Jiangsu.
     </li>
     <li>
