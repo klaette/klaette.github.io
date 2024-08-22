@@ -15,9 +15,6 @@
     <li>
         <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>, Yuyan Han✉️, Qingda Chen, Ling Wang, Yuting Wang, Junqing Li, and Yiping Liu. Energy Efficient Iterative Greedy Algorithm for the Distributed Hybrid Flow Shop Scheduling with Blocking Constraints. <span style="color:#b6321c" id="TETCI"><em><strong>IEEE Transactions on Emerging Topics in Computational Intelligence</strong></em></span>, vol.7, no. 5, pp.1442-1457, 2023. <a href="https://ieeexplore.ieee.org/document/10121391">[DOI: 10.1109/TECI.2023.3271331]</a><a href="/pdf/DBHFSP_TETCI.pdf">[PDF]</a>, <strong>Impact Factor: 5.3, Q2</strong>
     </li>
-    <li>
-        Zhongyuan Peng, <span style="color:black"><strong>Haoxiang Qin✉️</strong></span>. A single-individual based variable neighborhood search algorithm for the blocking hybrid flow shop group scheduling problem. <span style="color:#b6321c" id="EIJ"><em><strong>Egyptian Informatics Journal</strong></em></span>, vol.27, no. 100509, 2024. <a href="https://www.sciencedirect.com/science/article/pii/S1110866524000720">[DOI: 10.1016/j.eij.2024.100509]</a><a href="/pdf/BHFGSP_EIJ.pdf">[PDF]</a>, <strong>Impact Factor: 5, Q1</strong>
-    </li>
      <li>
         <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yuyan Han✉️, Yuting Wang✉️, Yiping Liu, Junqing Li, and Quanke Pan. Intelligent Optimization Under Blocking Constraints: A Novel Iterated Greedy Algorithm for the Hybrid Flow-Shop Group Scheduling Problems. <span style="color:#b6321c"><em><strong>knowledge-based systems</strong></em></span>, vol.258, no. 109962, pp.1-24, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0950705122010553">[DOI: 10.1016/j.knosys.2022.109962]</a><a href="/pdf/DBHFSP_KBS.pdf">[PDF]</a>, <strong>Impact Factor: 8.139, Q1</strong>
     </li>
@@ -29,6 +26,9 @@
     </li>
     <li>
         <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yuyan Han✉️, Qingda Chen, Junqing Li, Hongyan Sang. A double level mutation iterated greedy algorithm for blocking hybrid flow shop scheduling. <span style="color:#b6321c"><em><strong>Control and Decision</strong></em></span>, vol.37, no. 9, pp.2323-2332, 2021. <a href="https://kns.cnki.net/kcms2/article/abstract?v=pbvOL2cnFbIphAMVPFs9TwXrLQnIRXiVSTC5Nf7PsYIP51Sms43Ofyi4uGCjYngsqmVi19Jb98swIXlbf58A0JcGn48k0Xf2rcITBBWmSk-b5AbixEoY9Qydn0EHnv38qhA7C7ZfGELsu21tRVeY4A==&uniplatform=NZKPT&language=CHS">[10.13195/j.kzyjc.2021.0607]</a> <a href="/pdf/BHFSP_CAD.pdf">[PDF]</a>, <strong>EI, Chinese authoritative journals</strong>
+    </li>
+    <li>
+        Zhongyuan Peng, <span style="color:black"><strong>Haoxiang Qin✉️</strong></span>. A single-individual based variable neighborhood search algorithm for the blocking hybrid flow shop group scheduling problem. <span style="color:#b6321c" id="EIJ"><em><strong>Egyptian Informatics Journal</strong></em></span>, vol.27, no. 100509, 2024. <a href="https://www.sciencedirect.com/science/article/pii/S1110866524000720">[DOI: 10.1016/j.eij.2024.100509]</a><a href="/pdf/BHFGSP_EIJ.pdf">[PDF]</a>, <strong>Impact Factor: 5, Q1</strong>
     </li>
     <li>
         Wenlei Bai✉️, Fanlin Meng, Ming Sun, <span style="color:black"><strong>Haoxiang Qin</strong></span>, Richard Allmendinger, Kwang Y Lee. Differential Evolutionary Particle Swarm Optimization with Orthogonal Learning for Wind Integrated Optimal Power Flow. <span style="color:#b6321c"><em><strong>Applied soft computing</strong></em></span>, no.111662, 2024. <a href="https://www.sciencedirect.com/science/article/pii/S1568494624004368">[10.1016/j.asoc.2024.111662]</a> <a href="/pdf/PSO_OPF.pdf">[PDF]</a>, <strong>Impact Factor: 8.7, Q1</strong>
