@@ -43,6 +43,9 @@
 </h2>
 <ol>
     <li>
+        <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang✉️, Yuyan Han, Xueming Yan. Optimizing energy-efficient flexible job shop scheduling with transportation constraints: A Q-Learning enhanced Quality-Diversity algorithm. <span style="color:#b6321c"><em><strong>2024 6th International Conference on Data-driven Optimization of Complex Systems (DOCS)</strong></em></span>, Hangzhou, China, pp.373-378, 2024.<a href="https://xploreqa.ieee.org/document/10704469"> [10.1109/DOCS63458.2024.10704469]</a> <a href="/pdf/QD_DOCS.pdf">[PDF]</a>
+    </li>
+    <li>
         <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yuting Wang✉️, Yuyan Han✉️, Qingda Chen, Junqing Li. Adapting a reinforcement learning method for the distributed blocking hybrid flow shop scheduling problem. <span style="color:#b6321c"><em><strong>The 5th Asian Conference on Artificial Intelligence Technology (ACAIT)</strong></em></span>, Haikou, China, pp.751-757, 2021.<a href="https://ieeexplore.ieee.org/abstract/document/9731228">[10.1109/ACAIT53529.2021.9731228]</a> <a href="/pdf/ACAIT2021.pdf">[PDF]</a> 
     </li>
     <li>
