@@ -11,6 +11,9 @@
 
 <ol>
     <li>
+        <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>, Yi Xiang✉️, Fangqing Liu, Yuyan Han, and Yuting Wang. Enhancing Quality-Diversity algorithm by reinforcement learning for Flexible Job Shop Scheduling with transportation constraints. <span style="color:#b6321c" id="SWEVO2025"><em><strong>Swarm and Evolutionary Computation</strong></em></span>, vol.93, no. 101849, pp.1-14, 2025.<a href="https://www.sciencedirect.com/science/article/pii/S2210650225000070">[DOI: doi.org/10.1016/j.swevo.2025.101849]</a> <a href="/pdf/2025_Swarm.pdf">[PDF]</a>, <strong>影响因子: 8.2, 中科院SCI一区</strong>
+    </li>
+    <li>
         <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>, Wenlei Bai, Yi Xiang✉️, Fangqing Liu, Yuyan Han, and Ling Wang. A Self-adaptive Collaborative Differential Evolution Algorithm for Solving Energy Resource Management Problems in Smart Grids. <span style="color:#b6321c" id="TEVC"><em><strong>IEEE Transactions on Evolutionary Computation</strong></em></span>, Accepted, 2023.<a href="https://ieeexplore.ieee.org/document/10242385">[DOI: doi: 10.1109/TEVC.2023.3312769]</a> <a href="/pdf/SADEA_ERM.pdf">[PDF]</a>, <strong>影响因子: 14.3, 中科院SCI一区top</strong>.
     </li>
     <li>
