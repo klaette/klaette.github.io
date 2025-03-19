@@ -18,6 +18,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+        <strong>《Applied Soft Computing》</strong>审稿人 (SCI二区, 影响因子: 7.2), 2025.
+    </li>
+    <li>
         <strong>《Swarm and Evolutionary Computation》</strong>审稿人 (SCI一区, 影响因子: 10.0), 2024.
     </li>
     <li>
