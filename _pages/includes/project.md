@@ -19,6 +19,9 @@
 
 <ul>
     <li>
+        Reviewer of <strong>《Applied Soft Computing》</strong> (Impact Factor: 7.2, Q1), 2025.
+    </li>
+    <li>
         Reviewer of <strong>《Swarm and Evolutionary Computation》</strong> (Impact Factor: 10.0, Q1), 2024.
     </li>
     <li>
