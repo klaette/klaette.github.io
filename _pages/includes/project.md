@@ -2,16 +2,25 @@
 
 <ol>
     <li>
-        2022.09-2025.12 Guangyue Youth Scholar Innovation Talent Program support received from Liaocheng University，LCUGYTD2022-03，Key member
+        2024.01-2025.12 Special Project of University-Enterprise Innovation Consortium, "Research on Intelligent Scheduling and Path Planning Methods for UAVs" (Project Code: 20240171), Project Member
     </li>
     <li>
-        2019.01-2022.12 National Natural Science Foundation of China，Intelligent and optimal scheduling theory and method for multi-line surface mount shop（Number：61973203），member
+        2025.01-2027.12 General Program of Shandong Natural Science Foundation, "Evolutionary Algorithms for Multimodal Multi-objective Hybrid Flow Shop Problems and Their Applications in Painting Workshops" (Grant No.: ZR2024MF112), Project Member
     </li>
     <li>
-        2019.01-2022.12 National Natural Science Foundation of China，An evolutionary algorithm for solving multi-objective constrained optimization problems in continuous environments（Number：61966012），member
+        2024.01-2026.12 General Program of Shandong Natural Science Foundation, "Collaborative Swarm Intelligence Optimization Scheduling Theory and Methods for Bus Painting Workshops" (Grant No.: ZR2023MF022), Project Member
     </li>
     <li>
-        2019.01-2021.12 National Natural Science Foundation of China，Evolutionary optimization algorithm for multi-modal and multi-objective hybrid flow scheduling（Number：61803192）, member
+        2022.09-2025.12 Guangyue Youth Scholar Innovation Talent Program support received from Liaocheng University，（Grant No.:LCUGYTD2022-03），Key Member
+    </li>
+    <li>
+        2019.01-2022.12 National Natural Science Foundation of China，Intelligent and optimal scheduling theory and method for multi-line surface mount shop（Grant No.: 61973203），Project Member
+    </li>
+    <li>
+        2019.01-2022.12 National Natural Science Foundation of China，An evolutionary algorithm for solving multi-objective constrained optimization problems in continuous environments（Grant No.: 61966012），Project Member
+    </li>
+    <li>
+        2019.01-2021.12 National Natural Science Foundation of China，Evolutionary optimization algorithm for multi-modal and multi-objective hybrid flow scheduling（Grant No.: 61803192）, Project Member
     </li>
 </ol>
 
