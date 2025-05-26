@@ -1,6 +1,18 @@
 <h1>🏨 照片与证书</h1>
 <ul>
      <li>
+    <div><img src='images/CIOC2025.png' alt="CIOC2025" width="100%"></div>
+    </li>
+     <li>
+    <div><img src='images/op3.jpg' alt="op3" width="100%"></div>
+    </li>
+     <li>
+    <div><img src='images/op2.jpg' alt="op2" width="100%"></div>
+    </li>
+     <li>
+    <div><img src='images/op1.jpg' alt="op1" width="100%"></div>
+    </li>
+     <li>
     <div><img src='images/WCCI2024.png' alt="WCCI2024" width="100%"></div>
     </li>
      <li>
