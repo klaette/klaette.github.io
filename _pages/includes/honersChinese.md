@@ -1,6 +1,9 @@
 <h1>🎖️ 获奖情况</h1>
 <ul>
     <li>
+        2025.05 "树优杯”CIOC2025第四届全国智能优化算法大赛—柔性车间调度(Flexible job-shop Scheduling Problem, FJSP)赛道三等奖. 
+    </li>
+    <li>
         2025.01 2024年山东省优秀硕士学位论文. 
     </li>
     <li>
