@@ -1,6 +1,9 @@
 <h1>🎖️ Honors and Awards</h1>
 <ul>
     <li>
+        2025.05 Third Prize in the “Shuyou Cup” CIOC 2025 4th National Intelligent Optimization Algorithm Competition — Flexible Job-Shop Scheduling Problem (FJSP). 
+    </li>
+    <li>
         2025.01 Outstanding Master's Thesis of Shandong Province, China. 
     </li>
     <li>
