@@ -1,6 +1,9 @@
 <h1>🏨 Academic Activities</h1>
 <ul>
     <li>
+        2025.05，Third Prize in the “Shuyou Cup” CIOC 2025 4th National Intelligent Optimization Algorithm Competition — Flexible Job-Shop Scheduling Problem (FJSP), Qingdao, Shandong.
+    </li>
+    <li>
         2024.08，The 6th International Conference on Data-driven Optimization of Complex Systems, Hangzhou, Zhejiang.
     </li>
     <li>
