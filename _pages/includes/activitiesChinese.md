@@ -1,7 +1,7 @@
 <h1>🏨 学术活动</h1>
 <ul>
     <li>
-        2025.05，第八届智能优化与调度学术会议，获得"树优杯”CIOC2025第四届全国智能优化算法大赛—柔性车间调度(Flexible job-shop Scheduling Problem, FJSP)赛道三等奖
+        2025.05，第八届智能优化与调度学术会议，获得"树优杯”CIOC2025第四届全国智能优化算法大赛—柔性车间调度(Flexible job-shop Scheduling Problem, FJSP)赛道三等奖，山东·青岛
     </li>    
     <li>
         2024.08，第六届复杂系统数据驱动优化国际会议(DOCS 2024)，浙江·杭州.
