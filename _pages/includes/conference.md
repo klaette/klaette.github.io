@@ -43,6 +43,9 @@
     <div><img src='images/IJCAI2023.jpg' alt="IJCAI2023" width="100%"></div>
     </li>
      <li>
+    <div><img src='images/Eight.jpg' alt="Eight" width="100%"></div>
+    </li>
+     <li>
     <div><img src='images/Seven.jpg' alt="Seven" width="100%"></div>
     </li> 
     <li>
