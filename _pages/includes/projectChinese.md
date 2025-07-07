@@ -27,6 +27,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+        <strong>《Journal of Industrial and Management Optimization》</strong>审稿人 (SCI四区, 影响因子: 1.6), 2025.
+    </li>
+    <li>
         <strong>《Cluster Computing》</strong>审稿人 (SCI三区, 影响因子: 3.6), 2025.
     </li>
     <li>
