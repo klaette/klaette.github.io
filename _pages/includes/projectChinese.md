@@ -27,6 +27,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+        <strong>《Information Sciences》</strong> 审稿人 (SCI二区, 影响因子: 6.8), 2025.
+    </li>
+    <li>
         <strong>《Journal of Industrial and Management Optimization》</strong>审稿人 (SCI四区, 影响因子: 1.6), 2025.
     </li>
     <li>
