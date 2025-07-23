@@ -28,6 +28,9 @@
 
 <ul>
     <li>
+        Reviewer of <strong>《Information Sciences》</strong> (Impact Factor: 6.8, Q1), 2025.
+    </li>
+    <li>
         Reviewer of <strong>《Journal of Industrial and Management Optimization》</strong> (Impact Factor: 1.6, Q2), 2025.
     </li>
     <li>
