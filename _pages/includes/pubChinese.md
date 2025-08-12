@@ -58,11 +58,12 @@
         <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yuyan Han✉️, Junqing Li, Hongyan Sang, Qingda Chen. A quick and effective iterated greedy algorithm for energy-efficient hybrid flow shop scheduling problem with blocking constraint. <span style="color:#b6321c"><em><strong>2021 11th International Conference on Information Science and Technology (ICIST)</strong></em></span>, Chengdu, China, pp.325-331, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9440648">[10.1109/ICIST52614.2021.9440648]</a>  <a href="/pdf/ICIST_qin2021.pdf">[PDF]</a>  
     </li>
     <li>
-        Jinlin Liu, <span style="color:black"><strong>Haoxiang Qin✉️</strong></span>, Yuyan Han, Yuting Wang, Qingda Chen. Energy Efficiency Optimization with Machine Activation in Blocking Hybrid Flow Shop Scheduling Problem. <span style="color:#b6321c"><em><strong>2025 37th Chinese Control and Decision Conference (CCDC)</strong></em></span>, Xiamen, China, pp. 1029-1034, 2025. <a href="https://ieeexplore.ieee.org/document/11090246">[10.1109/CCDC65474.2025.11090246]</a> <a href="/pdf/CCDC_2025.pdf">[PDF]</a> 
+        Jinlin Liu, <span style="color:black"><strong>Haoxiang Qin✉️</strong></span>, Yuyan Han✉️, Yuting Wang, Qingda Chen. Energy Efficiency Optimization with Machine Activation in Blocking Hybrid Flow Shop Scheduling Problem. <span style="color:#b6321c"><em><strong>2025 37th Chinese Control and Decision Conference (CCDC)</strong></em></span>, Xiamen, China, pp. 1029-1034, 2025. <a href="https://ieeexplore.ieee.org/document/11090246">[10.1109/CCDC65474.2025.11090246]</a> <a href="/pdf/CCDC_2025.pdf">[PDF]</a> 
     </li>
     <li>
         Xue Han, Yuyan Han✉️, Yiping Liu, Quanke Pan, <span style="color:black"><strong>Haoxiang Qin</strong></span>, Junqing Li. An improved iterated greedy algorithm for the distributed flow shop scheduling problem with sequence-dependent setup times. <span style="color:#b6321c"><em><strong>2021 11th International Conference on Information Science and Technology (ICIST)</strong></em></span>, Chengdu, China, pp.332-340, 2021. <a href="https://ieeexplore.ieee.org/document/9440591">[10.1109/ICIST52614.2021.9440591]</a><a href="/pdf/ICIST_han2021.pdf">[PDF]</a>
     </li>
 </ol>
+
 
 
