@@ -27,6 +27,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+       <strong>《Journal of Manufacturing Systems》</strong> 审稿人 (SCI二区, 影响因子: 14.2), 2025.
+    </li>
+    <li>
         <strong>《Information Sciences》</strong> 审稿人 (SCI二区, 影响因子: 6.8), 2025.
     </li>
     <li>
@@ -48,3 +51,4 @@
         <strong>《Reliability Engineering & System Safety》</strong>审稿人 (SCI一区, 影响因子: 8.1), 2023.
     </li>
 </ul>
+
