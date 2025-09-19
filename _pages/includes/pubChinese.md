@@ -79,9 +79,10 @@
         <span style="color:black"><strong>秦浩翔</strong></span>, 向毅, 韩玉艳, 王玉亭. 一种阻塞混合成组流水车间调度方法、装置及存储介质. 申请号：2023118313866
     </li>
     <li>
-        向毅, <span style="color:black"><strong>秦浩翔</strong></span>, 韩玉艳, 王玉亭. 一种分布式柔性作业车间的调度方法及装置. 授权号：申请号：2023118313531
+        向毅, <span style="color:black"><strong>秦浩翔</strong></span>, 韩玉艳, 王玉亭. 一种分布式柔性作业车间的调度方法及装置. 申请号：2023118313531
     </li>
 </ol>
+
 
 
 
