@@ -64,5 +64,23 @@
     </li>
 </ul>
 
+<h2>
+    💬 发明专利
+</h2>
+<ol>
+    <li>
+        <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang, Yuyan Han, Yuting Wang. Scheduling Method and Device for Distributed Flexible Job shop with Automated Guided Vehicles. Authorization Number: ZL202410670337.7
+    </li>
+    <li>
+        <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang, Yuyan Han, Yuting Wang. A Scheduling Method, Device, and Storage Medium for Flexible Job Shop. Application Number：2024106703324
+    </li>
+    <li>
+        <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang, Yuyan Han, Yuting Wang. A Blocking Hybrid Group Flow Shop Scheduling Method, Device, and Storage Medium. Application Number：2023118313866
+    </li>
+    <li>
+        Yi Xiang, <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yuyan Han, Yuting Wang. A Scheduling Method and Device for Distributed Flexible Job Shop. Application Number：2023118313531
+    </li>
+</ol>
+
 
 
