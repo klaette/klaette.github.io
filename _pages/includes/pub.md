@@ -65,7 +65,7 @@
 </ul>
 
 <h2>
-    💬 发明专利
+    💬 Invention Patent
 </h2>
 <ol>
     <li>
@@ -81,6 +81,7 @@
         Yi Xiang, <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yuyan Han, Yuting Wang. A Scheduling Method and Device for Distributed Flexible Job Shop. Application Number：2023118313531
     </li>
 </ol>
+
 
 
 
