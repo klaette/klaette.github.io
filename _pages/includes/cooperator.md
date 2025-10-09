@@ -9,7 +9,7 @@
 - <div><img src='images/YCJ.png' alt="YCJ" width="8%"><A href="https://scholar.google.com.hk/citations?hl=zh-CN&user=B5WAkz4AAAAJ"> Yaochu Jin</a> (IEEE Fellow, He is a professor at Westlake University, a doctoral supervisor and the member of the European Academy of Sciences)</div>
 - <div><img src='images/Lee.png' alt="Lee" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=EvIfUGkAAAAJ"> Kwang Y. Lee</a> (IEEE Fellow, he is a Professor and Chair of the Electrical and Computer Engineering Department at Baylor University)</div>
 - <div><img src='images/WL.png' alt="WL" width="8%"><A href="https://scholar.google.com.hk/citations?user=lC7bVMwAAAAJ&hl=zh-CN"> Ling Wang</a> (He is a professor at Tsinghua University, a doctoral supervisor, a recipient of the National Outstanding Youth Fund, and is named one of the top 100000 scientists in the world)</div>
-- <div><img src='images/HH.png' alt="HH" width="8%"><A href="https://www2.scut.edu.cn/sse/2018/0615/c16788a270753/page.htm"> Han Huang</a>  (He is a professor at South China University of Technology, he is a doctoral supervisor)  </div>
+- <div><img src='images/HH.png' alt="HH" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=TxUgPwYAAAAJ"> Han Huang</a>  (He is a professor at South China University of Technology, he is a doctoral supervisor)  </div>
 - <div><img src='images/QKP.png' alt="QKP" width="8%"><A href="https://scholar.google.com/citations?user=IZH54uAAAAAJ&hl=zh-CN"> Quanke Pan</a> (He is a professor at Shanghai University, a doctoral supervisor, and a highly cited scientist worldwide)</div>
 - <div><img src='images/DWG.png' alt="DWG" width="8%"><A href="http://yjsxt.cumt.edu.cn/Gwork/Teacher/TeacherInfo.aspx?EID=LaosoqV95obY7S8CqYNid38k6GPaqAQX"> Dunwei Gong</a> (He is a professor and doctoral supervisor at China University of Mining and Technology)</div>
 - <div><img src='images/YLiu.png' alt="YLiu" width="8%"><A href="https://scholar.google.com.hk/citations?user=2eX_3XEAAAAJ&hl=zh-CN"> Yiping Liu</a> (He is an associate professor, doctoral supervisor, and Yuelu scholar at Hunan University)</div>
@@ -26,6 +26,7 @@
 - <div><img src='images/MJZ.png' alt="MJZ" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=hLvGrrkAAAAJ"> Mengjie Zhang</a>  (IEEE Fellow, He is the professor of Computer Science at Victoria University of Wellington)  </div>
 - <div><img src='images/Hisao.png' alt="Hisao" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=vx9EZN4AAAAJ"> Hisao Ishibuchi</a>  (IEEE Fellow, he is the Chair Professor of Computer Science at the Southern University of Science and Technology) </div>
 - <div><img src='images/MFT.png' alt="MFT" width="8%"><A href="https://scholar.google.com/citations?user=pYeRQGEAAAAJ"> M.Fatih Tasgetiren</a> (He is a professor and doctoral supervisor of Baskent University in Türkiye)</div>
+
 
 
 
