@@ -18,7 +18,7 @@
 - <div><img src='images/YTW.jpg' alt="YTW" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339869.htm"> Yuting Wang</a>  (He is an associate professor and master's supervisor at Liaocheng University)</div>
 - <div><img src='images/JQL.png' alt="JQL" width="8%"><A href="http://ischedulings.com/"> Junqing Li</a>  (He is a professor and doctoral supervisor at Shandong Normal University, and is named one of the top 100000 scientists in the world)  </div>
 - <div><img src='images/GKZ.png' alt="GKZ" width="8%"><A href="https://scholar.google.com.hk/citations?user=ilQC9jQAAAAJ&hl=zh-CN"> Kaizhou Gao</a>  (He is an assistant professor at Macau University of Science and Technology, a lecturer at Liaocheng University, and a master's supervisor)  </div>
-- <div><img src='images/SHY.png' alt="SHY" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339857.htm"> Hongyan Sang</a>  (She is a professor, master's supervisor, and part-time doctoral supervisor at Liaocheng University)  </div>
+- <div><img src='images/SHY.png' alt="SHY" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=Hp0JFy0AAAAJ"> Hongyan Sang</a>  (She is a professor, master's supervisor, and part-time doctoral supervisor at Liaocheng University)  </div>
 - <div><img src='images/ZB.png' alt="ZB" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=_s6eUfMAAAAJ"> Biao Zhang</a>  (He is an associate professor and master's supervisor at Liaocheng University)  </div>
 - <div><img src='images/MLL.png' alt="MLL" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=uLLJ0qUAAAAJ"> Leilei Meng</a>  (He is an associate professor and master's supervisor at Liaocheng University)  </div>
 
@@ -26,6 +26,7 @@
 - <div><img src='images/MJZ.png' alt="MJZ" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=hLvGrrkAAAAJ"> Mengjie Zhang</a>  (IEEE Fellow, He is the professor of Computer Science at Victoria University of Wellington)  </div>
 - <div><img src='images/Hisao.png' alt="Hisao" width="8%"><A href="https://scholar.google.com/citations?hl=zh-CN&user=vx9EZN4AAAAJ"> Hisao Ishibuchi</a>  (IEEE Fellow, he is the Chair Professor of Computer Science at the Southern University of Science and Technology) </div>
 - <div><img src='images/MFT.png' alt="MFT" width="8%"><A href="https://scholar.google.com/citations?user=pYeRQGEAAAAJ"> M.Fatih Tasgetiren</a> (He is a professor and doctoral supervisor of Baskent University in Türkiye)</div>
+
 
 
 
