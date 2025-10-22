@@ -28,6 +28,9 @@
 
 <ul>
     <li>
+        Reviewer of <strong>《Engineering Applications of Artificial Intelligence》</strong> (Impact Factor: 8.0, Q1), 2025.
+    </li>
+    <li>
         Reviewer of <strong>《Computers & Industrial Engineering》</strong> (Impact Factor: 7.9, Q1), 2025.
     </li>
     <li>
@@ -55,5 +58,6 @@
         Reviewer of <strong>《Reliability Engineering & System Safety》</strong> (Impact Factor: 8.1, Q1), 2023.
     </li>
 </ul>
+
 
 
