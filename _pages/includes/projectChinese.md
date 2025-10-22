@@ -27,6 +27,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+       <strong>《Engineering Applications of Artificial Intelligence》</strong> 审稿人 (SCI一区, 影响因子: 8.0), 2025.
+    </li>
+    <li>
        <strong>《Computers & Industrial Engineering》</strong> 审稿人 (SCI二区, 影响因子: 7.9), 2025.
     </li>
     <li>
@@ -54,5 +57,6 @@
         <strong>《Reliability Engineering & System Safety》</strong>审稿人 (SCI一区, 影响因子: 8.1), 2023.
     </li>
 </ul>
+
 
 
