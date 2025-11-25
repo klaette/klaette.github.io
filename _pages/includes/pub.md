@@ -49,7 +49,7 @@
 </ol>
 
 <h2>💬 Conference Papers</h2>
-<ul>
+<ol>
     <li>
         <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang✉️, Yuyan Han, Xueming Yan. Optimizing energy-efficient flexible job shop scheduling with transportation constraints: A Q-Learning enhanced Quality-Diversity algorithm. <span style="color:#b6321c"><em><strong>2024 6th International Conference on Data-driven Optimization of Complex Systems (DOCS)</strong></em></span>, Hangzhou, China, pp.373-378, 2024.<a href="https://xploreqa.ieee.org/document/10704469"> [10.1109/DOCS63458.2024.10704469]</a> <a href="/pdf/QD_DOCS.pdf">[PDF]</a>
     </li>
@@ -65,7 +65,7 @@
     <li>
         Xue Han, Yuyan Han✉️, Yiping Liu, Quanke Pan, <span style="color:black"><strong>Haoxiang Qin</strong></span>, Junqing Li. An improved iterated greedy algorithm for the distributed flow shop scheduling problem with sequence-dependent setup times. <span style="color:#b6321c"><em><strong>2021 11th International Conference on Information Science and Technology (ICIST)</strong></em></span>, Chengdu, China, pp.332-340, 2021. <a href="https://ieeexplore.ieee.org/document/9440591">[10.1109/ICIST52614.2021.9440591]</a><a href="/pdf/ICIST_han2021.pdf">[PDF]</a>
     </li>
-</ul>
+</ol>
 
 <h2>
     💬 Invention Patent
@@ -84,6 +84,7 @@
         Yi Xiang, <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yuyan Han, Yuting Wang. A Scheduling Method and Device for Distributed Flexible Job Shop. Application Number：2023118313531
     </li>
 </ol>
+
 
 
 
