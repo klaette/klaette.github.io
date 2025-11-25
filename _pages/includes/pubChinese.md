@@ -11,6 +11,9 @@
 
 <ol>
     <li>
+    <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang✉️, Yuyan Han, Yuting Wang, Junqing Li, and Quanke Pan. A knowledge region selection enhanced quality-diversity algorithm for real-world flexible job shop scheduling with Automated Guided Vehicles transportation. <span style="color:#b6321c" id="SSI2025"><em><strong>Engineering Applications of Artificial Intelligence</strong></em></span>, vol. 164, pp. 113352, Nov. 2026. <a href="https://doi.org/10.1016/j.engappai.2025.113352">[DOI: doi.org/10.1016/j.engappai.2025.113352]</a> <a href="/pdf/FJSPT_EAAI.pdf">[PDF]</a>, <strong>影响因子: 8.0, 中科院SCI一区top</strong>
+    </li>
+    <li>
     <span style="color:black"><strong>秦浩翔</strong></span>, 向毅✉️, 韩玉艳, 王玉亭, 陈庆达, 周平. 基于深度强化学习和质量多样性优化的分布式柔性作业车间集成调度方法. <span style="color:#b6321c" id="SSI2025"><em><strong>中国科学：信息科学</strong></em></span>, 2025. <a href="https://doi.org/10.1360/SSI-2025-0113">[DOI: 10.1360/SSI-2025-0113]</a> <a href="/pdf/2025_SSI.pdf">[PDF]</a>, <strong>CCF-A, 中文顶刊，中科双高期刊</strong>
     </li>
     <li>
@@ -82,6 +85,7 @@
         向毅, <span style="color:black"><strong>秦浩翔</strong></span>, 韩玉艳, 王玉亭. 一种分布式柔性作业车间的调度方法及装置. 申请号：2023118313531
     </li>
 </ol>
+
 
 
 
