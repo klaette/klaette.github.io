@@ -11,7 +11,7 @@
 
 <ol>
     <li>
-    <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang✉️, Hainan Zhang, Yuyan Han, Yuting Wang, Xinrui Tao, and Yiping Liu. A survey on Quality-Diversity optimization: approaches, applications, and challenges. <span style="color:#b6321c" id="SSI2025"><em><strong>Swarm and Evolutionary Computation</strong></em></span>, vol. 100, pp. 102240, Nov. 2026. <a href="https://doi.org/10.1016/j.swevo.2025.102240">[DOI: doi.org/10.1016/j.swevo.2025.102240]</a> <a href="/pdf/QD_SWEVO.pdf">[PDF]</a>, <strong>影响因子: 8.5, 中科院SCI二区</strong>
+    <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang✉️, Hainan Zhang, Yuyan Han, Yuting Wang, Xinrui Tao, and Yiping Liu. A survey on Quality-Diversity optimization: approaches, applications, and challenges. <span style="color:#b6321c" id="SSI2025"><em><strong>Swarm and Evolutionary Computation</strong></em></span>, vol. 100, no. 102240, pp. 1-25, Nov. 2026. <a href="https://doi.org/10.1016/j.swevo.2025.102240">[DOI: doi.org/10.1016/j.swevo.2025.102240]</a> <a href="/pdf/QD_SWEVO.pdf">[PDF]</a>, <strong>影响因子: 8.5, 中科院SCI二区</strong>
     </li>
     <li>
     <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang✉️, Yuyan Han, Yuting Wang, Junqing Li, and Quanke Pan. A knowledge region selection enhanced quality-diversity algorithm for real-world flexible job shop scheduling with Automated Guided Vehicles transportation. <span style="color:#b6321c" id="SSI2025"><em><strong>Engineering Applications of Artificial Intelligence</strong></em></span>, vol. 164, pp. 113352, Nov. 2026. <a href="https://doi.org/10.1016/j.engappai.2025.113352">[DOI: doi.org/10.1016/j.engappai.2025.113352]</a> <a href="/pdf/FJSPT_EAAI.pdf">[PDF]</a>, <strong>影响因子: 8.0, 中科院SCI一区top</strong>
@@ -88,6 +88,7 @@
         向毅, <span style="color:black"><strong>秦浩翔</strong></span>, 韩玉艳, 王玉亭. 一种分布式柔性作业车间的调度方法及装置. 申请号：2023118313531
     </li>
 </ol>
+
 
 
 
