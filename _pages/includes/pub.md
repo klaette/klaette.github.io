@@ -17,7 +17,7 @@
     <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang✉️, Yuyan Han, Yuting Wang, Junqing Li, and Quanke Pan. A knowledge region selection enhanced quality-diversity algorithm for real-world flexible job shop scheduling with Automated Guided Vehicles transportation. <span style="color:#b6321c" id="SSI2025"><em><strong>Engineering Applications of Artificial Intelligence</strong></em></span>, vol. 164, pp. 113352, Nov. 2026. <a href="https://doi.org/10.1016/j.engappai.2025.113352">[DOI: doi.org/10.1016/j.engappai.2025.113352]</a> <a href="/pdf/FJSPT_EAAI.pdf">[PDF]</a>, <strong>Impact Factor: 8.0, Q1</strong>
     </li>
     <li>
-    <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang✉️, Yuyan Han, Yuting Wang, Qingda Chen, and Ping Zhou. Intelligent scheduling approach for distributed flexible job-shop with deep reinforcement learning and quality-diversity optimization. <span style="color:#b6321c" id="SSI2025"><em><strong>SCIENTIA SINICA Informationis</strong></em></span>, 2025. <a href="https://doi.org/10.1360/SSI-2025-0113">[DOI: 10.1360/SSI-2025-0113]</a> <a href="/pdf/2025_SSI.pdf">[PDF]</a>, <strong>CCF-A, Chinese top and authoritative journals</strong>
+    <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yi Xiang✉️, Yuyan Han, Yuting Wang, Qingda Chen, and Ping Zhou. Intelligent scheduling approach for distributed flexible job-shop with deep reinforcement learning and quality-diversity optimization. <span style="color:#b6321c" id="SSI2025"><em><strong>SCIENTIA SINICA Informationis</strong></em></span>, 2025. <a href="https://doi.org/10.1360/SSI-2025-0113">[DOI: 10.1360/SSI-2025-0113]</a> <a href="/pdf/2025ssi.pdf">[PDF]</a>, <strong>CCF-A, Chinese top and authoritative journals</strong>
     </li>
     <li>
         <span style="color:black"><strong>Haoxiang Qin</strong></strong></span>, Yi Xiang✉️, Fangqing Liu, Yuyan Han, and Yuting Wang. Enhancing Quality-Diversity algorithm by reinforcement learning for Flexible Job Shop Scheduling with transportation constraints. <span style="color:#b6321c" id="SWEVO2025"><em><strong>Swarm and Evolutionary Computation</strong></em></span>, vol.93, no. 101849, pp.1-14, 2025.<a href="https://www.sciencedirect.com/science/article/pii/S2210650225000070">[DOI: doi.org/10.1016/j.swevo.2025.101849]</a> <a href="/pdf/2025_Swarm.pdf">[PDF]</a>, <strong>Impact Factor: 8.2, Q1</strong>
@@ -87,6 +87,7 @@
         Yi Xiang, <span style="color:black"><strong>Haoxiang Qin</strong></span>, Yuyan Han, Yuting Wang. A Scheduling Method and Device for Distributed Flexible Job Shop. Application Number：2023118313531
     </li>
 </ol>
+
 
 
 
