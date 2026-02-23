@@ -14,7 +14,7 @@
 - <div><img src='images/QDC.png' alt="QDC" width="8%"><A href="https://www.researchgate.net/profile/Qingda-Chen">陈庆达</a> (东北大学,流程工业综合自动化国家重点实验室讲师)</div>
 - <div><img src='images/WLB.jpg' alt="WLB" width="8%"><A href="https://scholar.google.com.hk/citations?user=P7sApnQAAAAJ&hl=zh-CN"> 白文磊</a> (美国甲骨文股份有限公司，主要应用程序开发人员)</div>
 - <div><img src='images/YTW.jpg' alt="YTW" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339869.htm"> 王玉亭</a>  (聊城大学副教授, 硕士生导师)  </div>
-- <div><img src='images/JQL.png' alt="JQL" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339885.htm"> 李俊青</a>  (山东师范大学教授, 博士生导师, 全球前10万顶尖科学家)  </div>
+- <div><img src='images/JQL.png' alt="JQL" width="8%"><A href="https://datadriving.github.io/achievements.html"> 李俊青</a>  (山东师范大学教授, 博士生导师, 全球前10万顶尖科学家)  </div>
 - <div><img src='images/GKZ.png' alt="GKZ" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339844.htm"> 高开周</a>  (澳门科技大学助理教授，聊城大学讲师,  硕士生导师)  </div>
 - <div><img src='images/SHY.png' alt="SHY" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339857.htm"> 桑红燕</a>  (聊城大学教授, 硕士生导师，兼职博士生导师)  </div>
 - <div><img src='images/ZB.png' alt="ZB" width="8%"><A href="https://cs.lcu.edu.cn/szdw/339836.htm"> 张彪</a>  (聊城大学副教授, 硕士生导师)  </div>
@@ -25,4 +25,5 @@
 - <div><img src='images/MJZ.png' alt="MJZ" width="8%"><A href="https://people.wgtn.ac.nz/Mengjie.Zhang"> 张孟杰</a>  (IEEE Fellow, 新西兰惠灵顿维多利亚大学计算机科学系教授， 博士生导师)  </div>
 - <div><img src='images/Hisao.png' alt="Hisao" width="8%"><A href="https://faculty.sustech.edu.cn/?tagid=hisao&iscss=1&snapid=1&orderby=date&go=1"> Hisao Ishibuchi</a>  (IEEE Fellow, 南方科技大学计算机系讲座教授，博士生导师) </div>
 - <div><img src='images/MFT.png' alt="MFT" width="8%"><A href="https://scholar.google.com/citations?user=pYeRQGEAAAAJ"> M.Fatih Tasgetiren</a> (土耳其巴斯肯特大学教授， 博士生导师)</div>
+
 
