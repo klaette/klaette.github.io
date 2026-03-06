@@ -26,8 +26,11 @@
 
 <h1>📝 学术兼职 </h1>
 <ul>
+    <li>
+       <strong>《Intelligent Journal System》</strong> 审稿人 (SCI四区, 影响因子: 2.0), 2026.
+    </li>
      <li>
-        <strong>《European Journal of Operational Research》</strong> 审稿人 (SCI一区, 影响因子: 6.0), 2025.
+        <strong>《European Journal of Operational Research》</strong> 审稿人 (SCI一区, 影响因子: 6.0), 2026.
     </li>
     <li>
         <strong>《Journal of Intelligent & Fuzzy Systems》</strong> 审稿人 (SCI四区, 影响因子: 1.0), 2025.
@@ -63,6 +66,7 @@
         <strong>《Reliability Engineering & System Safety》</strong>审稿人 (SCI一区, 影响因子: 8.1), 2023.
     </li>
 </ul>
+
 
 
 
