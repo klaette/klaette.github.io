@@ -28,7 +28,10 @@
 
 <ul>
     <li>
-        Reviewer of <strong>《European Journal of Operational Research》</strong> (Impact Factor: 6.0, Q1), 2025.
+        Reviewer of <strong>《Intelligent Journal System》</strong> (Impact Factor: 2.0, Q2), 2026.
+    </li>
+    <li>
+        Reviewer of <strong>《European Journal of Operational Research》</strong> (Impact Factor: 6.0, Q1), 2026.
     </li>
     <li>
         Reviewer of <strong>《Journal of Intelligent & Fuzzy Systems》</strong> (Impact Factor: 1.0, Q4), 2025.
@@ -64,6 +67,7 @@
         Reviewer of <strong>《Reliability Engineering & System Safety》</strong> (Impact Factor: 8.1, Q1), 2023.
     </li>
 </ul>
+
 
 
 
