@@ -27,6 +27,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+       <strong>《Operations Research Perspectives》</strong> 审稿人 (SCI三区, 影响因子: 3.7), 2026.
+    </li>
+    <li>
        <strong>《Intelligent Journal System》</strong> 审稿人 (SCI四区, 影响因子: 2.0), 2026.
     </li>
      <li>
@@ -66,6 +69,7 @@
         <strong>《Reliability Engineering & System Safety》</strong>审稿人 (SCI一区, 影响因子: 8.1), 2023.
     </li>
 </ul>
+
 
 
 
