@@ -28,6 +28,9 @@
 
 <ul>
     <li>
+        Reviewer of <strong>《Operations Research Perspectives》</strong> (Impact Factor: 3.7, Q1), 2026.
+    </li>
+    <li>
         Reviewer of <strong>《Intelligent Journal System》</strong> (Impact Factor: 2.0, Q2), 2026.
     </li>
     <li>
@@ -67,6 +70,7 @@
         Reviewer of <strong>《Reliability Engineering & System Safety》</strong> (Impact Factor: 8.1, Q1), 2023.
     </li>
 </ul>
+
 
 
 
