@@ -47,6 +47,9 @@
         Zhongyuan Peng, <span style="color:black"><strong>Haoxiang Qin✉️</strong></span>. A single-individual based variable neighborhood search algorithm for the blocking hybrid flow shop group scheduling problem. <span style="color:#b6321c" id="EIJ"><em><strong>Egyptian Informatics Journal</strong></em></span>, vol.27, no. 100509, 2024. <a href="https://www.sciencedirect.com/science/article/pii/S1110866524000720">[DOI: 10.1016/j.eij.2024.100509]</a> <a href="/pdf/BHFGSP_EIJ.pdf">[PDF]</a>, <strong>Impact Factor: 5, Q1</strong>
     </li>
     <li>
+        Ronghua Zou, <span style="color:black"><strong>Haoxiang Qin✉️</strong></span>, Yi Xiang, and Chunguo Wu. Handling integrated transportation and production scheduling via deep-Q-network-enhanced multi-objective quality–diversity algorithm. <span style="color:#b6321c" id="EO"><em><strong>Engineering Optimization</strong></em></span>, 1–39. https://doi.org/10.1080/0305215X.2026.2637656, 2026. <a href="https://www.tandfonline.com/doi/full/10.1080/0305215X.2026.2637656?scroll=top&needAccess=true#d1e296">[DOI: 10.1080/0305215X]</a> <a href="/pdf/EO.pdf">[PDF]</a>, <strong>Impact Factor: 2.2, Q1</strong>
+    </li>
+    <li>
         Wenlei Bai✉️, Fanlin Meng, Ming Sun, <span style="color:black"><strong>Haoxiang Qin</strong></span>, Richard Allmendinger, Kwang Y Lee. Differential Evolutionary Particle Swarm Optimization with Orthogonal Learning for Wind Integrated Optimal Power Flow. <span style="color:#b6321c"><em><strong>Applied soft computing</strong></em></span>, no.111662, 2024. <a href="https://www.sciencedirect.com/science/article/pii/S1568494624004368">[10.1016/j.asoc.2024.111662]</a> <a href="/pdf/PSO_OPS.pdf">[PDF]</a>, <strong>Impact Factor: 8.7, Q1</strong>
     </li>
     <li>
