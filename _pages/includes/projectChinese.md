@@ -27,6 +27,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+       <strong>《IEEE Transactions on Emerging Topics in Computational Intelligence》</strong> 审稿人 (SCI二区, 影响因子: 6.5), 2026.
+    </li>
+    <li>
        <strong>《Operations Research Perspectives》</strong> 审稿人 (SCI三区, 影响因子: 3.7), 2026.
     </li>
     <li>
