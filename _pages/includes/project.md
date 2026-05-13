@@ -28,6 +28,9 @@
 
 <ul>
     <li>
+        Reviewer of <strong>《IEEE Transactions on Emerging Topics in Computational Intelligence》</strong> (Impact Factor: 6.5, Q1), 2026.
+    </li>
+    <li>
         Reviewer of <strong>《Operations Research Perspectives》</strong> (Impact Factor: 3.7, Q1), 2026.
     </li>
     <li>
