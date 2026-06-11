@@ -27,6 +27,9 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+       <strong>《Frontiers in Mechanical Engineering》</strong> 审稿人 (SCI三区, 影响因子: 4.0), 2026.
+    </li>
+    <li>
        <strong>《IEEE Transactions on Emerging Topics in Computational Intelligence》</strong> 审稿人 (SCI二区, 影响因子: 6.5), 2026.
     </li>
     <li>
