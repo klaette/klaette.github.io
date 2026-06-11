@@ -28,6 +28,9 @@
 
 <ul>
     <li>
+        Reviewer of <strong>《Frontiers in Mechanical Engineering》</strong> (Impact Factor: 4.0, Q1), 2026.
+    </li>
+    <li>
         Reviewer of <strong>《IEEE Transactions on Emerging Topics in Computational Intelligence》</strong> (Impact Factor: 6.5, Q1), 2026.
     </li>
     <li>
