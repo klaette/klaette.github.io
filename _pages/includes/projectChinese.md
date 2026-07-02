@@ -27,6 +27,8 @@
 <h1>📝 学术兼职 </h1>
 <ul>
     <li>
+        <strong>《IEEE Transactions on Mobile Computing》</strong> 审稿人 (SCI一区, 影响因子: 8.8), 2026.
+    <li>
        <strong>《Frontiers in Mechanical Engineering》</strong> 审稿人 (SCI三区, 影响因子: 4.0), 2026.
     </li>
     <li>
