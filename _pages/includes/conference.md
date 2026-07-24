@@ -1,10 +1,10 @@
 <h1>🏨 Photos and Certificates</h1>
 <ul>
      <li>
-    <div><img src='images/scen1_place1.png' alt="GECCO2026s1" width="100%"></div>
+    <div><img src='pdf/scen1_place1.pdf' alt="GECCO2026s1" width="100%"></div>
     </li>
      <li>
-    <div><img src='images/scen2_place2.png' alt="GECCO2026s2" width="100%"></div>
+    <div><img src='pdf/scen2_place2.pdf' alt="GECCO2026s2" width="100%"></div>
     </li>
      <li>
     <div><img src='images/WCCI2024.png' alt="WCCI2024" width="100%"></div>
