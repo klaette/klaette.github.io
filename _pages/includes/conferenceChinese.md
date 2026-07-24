@@ -1,10 +1,22 @@
 <h1>🏨 照片与证书</h1>
 <ul>
      <li>
-    <div><img src='images/scen1_place1.pdf' alt="GECCO2026s1" width="100%"></div>
+    <div><img src='images/scen1_place1.png' alt="GECCO2026s1" width="100%"></div>
     </li>
      <li>
-    <div><img src='images/scen2_place2.pdf' alt="GECCO2026s2" width="100%"></div>
+    <div><img src='images/scen2_place2.png' alt="GECCO2026s2" width="100%"></div>
+    </li>
+      <li>
+    <div><img src='images/WCCI2024.png' alt="WCCI2024" width="100%"></div>
+    </li>
+     <li>
+    <div><img src='images/GECCO2024.png' alt="GECCO2024" width="100%"></div>
+    </li>
+     <li>
+    <div><img src='images/CEC2023.png' alt="CEC2023" width="100%"></div>
+    </li> 
+     <li>
+    <div><img src='images/GECCO2023.png' alt="GECCO2023" width="100%"></div>
     </li>
      <li>
     <div><img src='images/CIOC2025.png' alt="CIOC2025" width="100%"></div>
@@ -17,18 +29,6 @@
     </li>
      <li>
     <div><img src='images/op1.jpg' alt="op1" width="100%"></div>
-    </li>
-     <li>
-    <div><img src='images/WCCI2024.png' alt="WCCI2024" width="100%"></div>
-    </li>
-     <li>
-    <div><img src='images/GECCO2024.png' alt="GECCO2024" width="100%"></div>
-    </li>
-     <li>
-    <div><img src='images/CEC2023.png' alt="CEC2023" width="100%"></div>
-    </li> 
-     <li>
-    <div><img src='images/GECCO2023.png' alt="GECCO2023" width="100%"></div>
     </li>
      <li>
     <div><img src='images/youshuo.jpg' alt="youshuo" width="100%"></div>
