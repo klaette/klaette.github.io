@@ -1,6 +1,9 @@
 <h1>🎖️ Honors and Awards</h1>
 <ul>
     <li>
+        2026.07 1st Place Winner in Both Scenarios of the GECCO 2026 Competition on Flexible Job Shop Scheduling Problems with Worker Flexibility under Uncertainty (FJSSP-WU Com).
+    </li>
+    <li>
         2025.10 National Graduate Scholarship (concurrently awarded with the Presidential Scholarship). 
     </li>
     <li>
