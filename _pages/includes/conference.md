@@ -1,22 +1,10 @@
 <h1>🏨 Photos and Certificates</h1>
 <ul>
      <li>
-    <div><img src='images/scen1_place1.pdf' alt="GECCO2026s1" width="100%"></div>
+    <div><img src='images/scen1_place1.png' alt="GECCO2026s1" width="100%"></div>
     </li>
      <li>
-    <div><img src='images/scen2_place2.pdf' alt="GECCO2026s2" width="100%"></div>
-    </li>
-     <li>
-    <div><img src='images/CIOC2025.png' alt="CIOC2025" width="100%"></div>
-    </li>
-     <li>
-    <div><img src='images/op3.jpg' alt="op3" width="100%"></div>
-    </li>
-     <li>
-    <div><img src='images/op2.jpg' alt="op2" width="100%"></div>
-    </li>
-     <li>
-    <div><img src='images/op1.jpg' alt="op1" width="100%"></div>
+    <div><img src='images/scen2_place2.png' alt="GECCO2026s2" width="100%"></div>
     </li>
      <li>
     <div><img src='images/WCCI2024.png' alt="WCCI2024" width="100%"></div>
@@ -30,6 +18,18 @@
      <li>
     <div><img src='images/GECCO2023.png' alt="GECCO2023" width="100%"></div>
     </li> 
+     <li>
+    <div><img src='images/CIOC2025.png' alt="CIOC2025" width="100%"></div>
+    </li>
+     <li>
+    <div><img src='images/op3.jpg' alt="op3" width="100%"></div>
+    </li>
+     <li>
+    <div><img src='images/op2.jpg' alt="op2" width="100%"></div>
+    </li>
+     <li>
+    <div><img src='images/op1.jpg' alt="op1" width="100%"></div>
+    </li>
      <li>
     <div><img src='images/youshuo.jpg' alt="youshuo" width="100%"></div>
     </li>
