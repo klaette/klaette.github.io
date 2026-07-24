@@ -1,6 +1,12 @@
 <h1>🏨 照片与证书</h1>
 <ul>
      <li>
+    <div><img src='images/scen1_place1.pdf' alt="GECCO2026s1" width="100%"></div>
+    </li>
+     <li>
+    <div><img src='images/scen2_place2.pdf' alt="GECCO2026s2" width="100%"></div>
+    </li>
+     <li>
     <div><img src='images/CIOC2025.png' alt="CIOC2025" width="100%"></div>
     </li>
      <li>
