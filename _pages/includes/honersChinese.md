@@ -1,7 +1,7 @@
 <h1>🎖️ 获奖情况</h1>
 <ul>
     <li>
-        2026.07, GECCO工人柔性与不确定性柔性作业车间调度问题竞赛（FJSSP-WU Com）双赛道冠军（Scenario 1、Scenario 2 均获第一名）。
+        2026.07, GECCO工人柔性与不确定性柔性作业车间调度问题竞赛（FJSSP-WU Com）双赛道冠军（Scenario 1、Scenario 2 均获第一名）.
     </li>
     <li>
         2025.05 "树优杯”CIOC2025第四届全国智能优化算法大赛—柔性车间调度(Flexible job-shop Scheduling Problem, FJSP)赛道三等奖. 
